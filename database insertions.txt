@@ -1,0 +1,952 @@
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES ('Abdominal Aortic Aneurysm', 'Pulsating near navel, Pain in back, Pain in side, Abdominal pain, Abdominal discomfort, Clammy skin, Rapid heart rate');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES ('Acne', 'Whiteheads, Blackheads, Pimples, Red inflamed bumps, Pustules, Cysts, Nodules');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES ('Acute Cholecystitis', 'Pain in abdomen, Nausea, Vomiting, Fever, Jaundice, Tenderness');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES ('Leukaemia', 'Fatigue, Pale skin, Shortness of breath, Frequent infections, Easy bruising, Easy bleeding, Bone pain');
+
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES ('Acute Pancreatitis', 'Abdominal pain, Abdominal pain radiates to back, Abdominal pain worsens after eating, Nausea, Vomiting, Tender abdomen');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES ('Adenomyosis', 'Heavy menstrual bleeding, Prolonged menstrual bleeding, Severe menstrual cramps, Pain during intercourse, Pelvic pain, Pelvic pressure');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES ('Addison’s Disease', 'Fatigue, Muscle weakness, Weight loss, Low blood pressure, Darkening of skin, Salt craving');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES ('Alcohol-Related Liver Disease', 'Jaundice, Abdominal pain and swelling, Nausea, Vomiting, Loss of appetite, Fatigue');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES ('Allergic Rhinitis', 'Sneezing, Runny or stuffy nose, Itchy or watery eyes, Itchy throat or ears, Fatigue');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES ('Allergies', 'Sneezing, Runny or stuffy nose, Itchy or watery eyes, Itchy throat or ears, Fatigue');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES ('Alzheimer’s Disease', 'Memory loss, Difficulty planning and solving problems, Confusion, Challenges in completing familiar tasks, Changes in personality or mood');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Anal Cancer', 'Bleeding from the anus, Pain or pressure in the anal area, Itching or discharge from the anus, Changes in bowel habits, Unexplained weight loss'),
+('Anaphylaxis', 'Shortness of breath, Swelling of the face or throat, Rapid or weak pulse, Hives, Confusion, Loss of consciousness'),
+('Angina', 'Chest pain or discomfort, Pain in the arms, neck, jaw, shoulder, or back, Shortness of breath, Sweating, Nausea'),
+('Angioedema', 'Swelling of the deeper layers of the skin, Often around the eyes and lips, Abdominal cramping, Breathing difficulty'),
+('Ankylosing Spondylitis', 'Pain and stiffness in the lower back and hips, Fatigue, Neck pain, Limited range of motion, Chest pain or tightness'),
+('Anorexia Nervosa', 'Extreme thinness, Intense fear of gaining weight, Distorted body image, Preoccupation with food, Denial of the seriousness of low body weight');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Anxiety', 'Excessive worry, Restlessness, Fatigue, Difficulty concentrating, Irritability, Muscle tension, Sleep disturbances'),
+('Anxiety Disorders in Children', 'Excessive worrying, Fear of separation, Refusal to go to school, Nightmares, Physical complaints without medical cause'),
+('Appendicitis', 'Pain starting around the navel and moving to the lower right abdomen, Nausea, Vomiting, Loss of appetite, Fever, Abdominal swelling'),
+('Arterial Thrombosis', 'Pain or numbness in the affected limb, Coldness or paleness in the affected limb, Weakness or paralysis, Shortness of breath'),
+('Arthritis', 'Joint pain, Swelling, Stiffness, Redness, Decreased range of motion'),
+('Asbestosis', 'Shortness of breath, Persistent dry cough, Chest tightness or pain, Clubbing of fingers or toes'),
+('Asthma', 'Coughing, Wheezing, Shortness of breath, Chest tightness, Difficulty breathing during physical activity or at night');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Atopic Eczema', 'Itchy, red, and dry skin, Rash, Small, raised bumps that may leak fluid, Cracked or scaly skin, Swelling'),
+('Atrial Fibrillation', 'Irregular or rapid heartbeat, Heart palpitations, Chest pain or discomfort, Fatigue, Dizziness or lightheadedness'),
+('Attention Deficit Hyperactivity Disorder (ADHD)', 'Inattention, Hyperactivity, Impulsivity, Difficulty focusing or completing tasks, Forgetfulness'),
+('Autistic Spectrum Disorder (ASD)', 'Social challenges, Communication difficulties, Repetitive behaviors, Limited interests, Sensory sensitivities'),
+('Bacterial Vaginosis', 'Thin, grayish-white vaginal discharge, Fishy odor, Burning during urination, Itching around the outside of the vagina'),
+('Benign Prostate Enlargement', 'Frequent urination, Urgency to urinate, Difficulty starting urination, Weak urine stream, Inability to empty the bladder completely'),
+('Bile Duct Cancer (Cholangiocarcinoma)', 'Jaundice, Itchy skin, Abdominal pain or discomfort, Unintended weight loss, Fever, Pale-colored stools');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Binge Eating', 'Eating large amounts of food rapidly, Eating when not physically hungry, Eating alone due to embarrassment, Feeling distressed or guilty after overeating'),
+('Bipolar Disorder', 'Mood swings, Mania or hypomania, Depression, Impaired judgment, Changes in sleep patterns, Energy fluctuations'),
+('Bladder Cancer', 'Blood in urine, Frequent urination, Painful urination, Lower back pain, Pelvic pain'),
+('Blood Poisoning (Sepsis)', 'Fever, Confusion, Shortness of breath, Rapid heart rate, Low blood pressure'),
+('Bone Cancer', 'Bone pain, Swelling or a lump on the bone, Weakness or fatigue, Unintended weight loss, Fractures'),
+('Bowel Cancer', 'Changes in bowel habits, Blood in stool, Abdominal pain or discomfort, Unexplained weight loss, Fatigue');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Bowel Incontinence', 'Inability to control bowel movements, Leakage of stool, Urgency to have a bowel movement, Changes in bowel habits'),
+('Bowel Polyps', 'Most cases are asymptomatic, Some may cause bleeding, Changes in bowel habits, Abdominal pain'),
+('Brain Stem Death', 'Unresponsive coma, Absence of brainstem reflexes, Apnea test showing no spontaneous breathing, Flat EEG showing no brain activity'),
+('Brain Tumours', 'Headaches, Seizures, Changes in vision, Difficulty speaking or understanding speech, Personality or behavior changes'),
+('Breast Cancer (Female)', 'Lump in the breast or underarm, Changes in breast size or shape, Unexplained pain in the breast, Nipple changes, Skin changes'),
+('Breast Cancer (Male)', 'Lump in the breast or underarm, Changes in breast size or shape, Unexplained pain in the breast, Nipple changes, Skin changes');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Bronchiectasis', 'Chronic cough, Production of a large amount of sputum, Shortness of breath, Chest pain, Fatigue'),
+('Bronchitis', 'Persistent cough, Production of mucus, Shortness of breath, Chest discomfort, Fatigue'),
+('Bulimia', 'Binge eating followed by purging, Recurrent episodes of overeating, Self-induced vomiting, Excessive exercise or fasting'),
+('Bunion', 'Enlarged, bony bump on the joint at the base of the big toe, Swelling, Redness, Persistent or intermittent pain'),
+('Carcinoid Syndrome and Carcinoid Tumours', 'Flushing of the skin, Diarrhea, Abdominal pain, Wheezing, Rapid heartbeat'),
+('Catarrh', 'Thick and discolored mucus, Postnasal drip, Coughing, Congestion or blockage in the nasal passages');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Cellulitis', 'Red, swollen, and painful skin, Warmth at the affected area, Fever, Red spots or blisters, Swollen lymph nodes'),
+('Cerebral Palsy', 'Poor coordination, Stiff or weak muscles, Tremors or involuntary movements, Delays in motor skills development, Difficulty walking'),
+('Cervical Cancer', 'Abnormal vaginal bleeding, Pelvic pain, Pain during intercourse, Unexplained weight loss, Fatigue'),
+('Chest Infection', 'Cough, Shortness of breath, Chest pain, Fever, Productive cough with mucus'),
+('Chest Pain', 'Pressure or squeezing sensation in the chest, Pain radiating to the arms, neck, jaw, shoulder, or back, Shortness of breath, Sweating'),
+('Chickenpox', 'Itchy rash with red spots, Fluid-filled blisters, Fever, Headache, Fatigue');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Chilblains', 'Red and itchy skin, Swelling, Blisters, Burning sensation, Changes in skin color'),
+('Chlamydia', 'Painful urination, Abnormal vaginal discharge, Pain during intercourse, Lower abdominal pain, Fever'),
+('Chronic Fatigue Syndrome', 'Persistent, unexplained fatigue, Muscle pain, Joint pain, Headaches, Difficulty concentrating'),
+('Chronic Kidney Disease', 'Fatigue, Swelling in the legs, Abdominal pain, Changes in urination frequency, Blood in urine'),
+('Chronic Lymphocytic Leukaemia', 'Enlarged lymph nodes, Fatigue, Pale skin, Night sweats, Unintended weight loss'),
+('Chronic Myeloid Leukaemia', 'Fatigue, Pale skin, Shortness of breath, Frequent infections, Easy bruising or bleeding, Bone pain');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Chronic Obstructive Pulmonary Disease (COPD)', 'Shortness of breath, Chronic cough, Wheezing, Chest tightness, Frequent respiratory infections'),
+('Chronic Pain', 'Persistent or recurring pain, Fatigue, Sleep disturbances, Limited mobility, Emotional distress'),
+('Chronic Pancreatitis', 'Abdominal pain, Nausea, Vomiting, Weight loss, Greasy or oily stools'),
+('Cirrhosis', 'Fatigue, Easy bruising, Swelling in the legs and abdomen, Jaundice, Itchy skin'),
+('Clostridium difficile', 'Watery diarrhea, Abdominal pain, Fever, Loss of appetite, Nausea'),
+('Coeliac Disease', 'Digestive symptoms (diarrhea, constipation, abdominal pain), Bloating, Fatigue, Dermatitis herpetiformis (skin rash)');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Cold Sore', 'Painful, fluid-filled blisters on or around the lips, Itching or tingling sensation, Swelling, Redness'),
+('Coma', 'Unresponsive state, No eye movements, No response to painful stimuli, Absence of reflexes'),
+('Common Cold', 'Runny or stuffy nose, Sneezing, Coughing, Sore throat, Fatigue'),
+('Common Heart Conditions', 'Chest pain or discomfort, Shortness of breath, Rapid or irregular heartbeat, Fatigue, Dizziness'),
+('Congenital Heart Disease', 'Difficulty breathing, Poor weight gain, Fatigue, Cyanosis (bluish tint to the skin), Swelling in the extremities'),
+('Conjunctivitis', 'Redness of the eyes, Itching or burning sensation, Excessive tearing, Discharge, Swollen eyelids');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Constipation', 'Infrequent bowel movements, Difficulty passing stool, Abdominal pain or discomfort, Bloating'),
+('Coronavirus (COVID-19)', 'Fever, Cough, Shortness of breath, Fatigue, Loss of taste or smell, Muscle or body aches'),
+('Cough', 'Persistent or recurrent cough, Sore throat, Shortness of breath, Chest pain, Fatigue'),
+('Crohn’s Disease', 'Abdominal pain, Diarrhea, Weight loss, Fatigue, Reduced appetite'),
+('Croup', 'Barking cough, Hoarse voice, Stridor (high-pitched sound when breathing in), Difficulty breathing'),
+('Cystic Fibrosis', 'Persistent cough with thick mucus, Shortness of breath, Frequent lung infections, Poor growth, Salty-tasting skin');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Cystitis', 'Painful or burning sensation during urination, Frequent urination, Urgency to urinate, Blood in urine, Lower abdominal pain'),
+('Deafblindness', 'Combined visual and hearing impairment, Difficulty with communication, Difficulty with mobility'),
+('Deep Vein Thrombosis', 'Swelling in the affected leg, Pain or tenderness in the calf, Red or discolored skin, Warmth in the affected area'),
+('Dehydration', 'Increased thirst, Dark yellow urine, Dry mouth, Fatigue, Dizziness'),
+('Dementia', 'Memory loss, Difficulty with communication, Impaired reasoning, Personality changes, Difficulty with daily tasks'),
+('Dementia with Lewy Bodies', 'Fluctuating alertness, Visual hallucinations, Tremors, Rigidity, Memory loss');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Dental Abscess', 'Severe toothache, Swelling in the face or jaw, Fever, Pain while chewing, Sensitivity to hot or cold'),
+('Depression', 'Persistent sadness, Loss of interest or pleasure, Changes in appetite or weight, Sleep disturbances, Fatigue'),
+('Dermatitis Herpetiformis', 'Itchy, red bumps or blisters, Grouped lesions, Burning or stinging sensation, Gluten sensitivity, Intestinal symptoms in some cases'),
+('Diabetes', 'Frequent urination, Increased thirst, Unexplained weight loss, Fatigue, Blurred vision'),
+('Diarrhoea', 'Frequent, loose, or watery stools, Abdominal cramps, Bloating, Nausea, Fever'),
+('Discoid Eczema', 'Itchy, red, and swollen skin, Coin-shaped patches, Cracked or scaly skin, Oozing or weeping');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Diverticular Disease and Diverticulitis', 'Abdominal pain, Bloating, Changes in bowel habits, Fever, Nausea, Vomiting'),
+('Dizziness (Lightheadedness)', 'Feeling faint or lightheaded, Unsteadiness, Nausea, Blurred or narrowing vision, Sweating'),
+('Down’s Syndrome', 'Distinctive facial features, Mild to moderate intellectual disability, Poor muscle tone, Congenital heart defects'),
+('Dry Mouth', 'Sticky or dry feeling in the mouth, Frequent thirst, Sore throat, Difficulty speaking or swallowing'),
+('Dysphagia (Swallowing Problems)', 'Difficulty swallowing, Pain while swallowing, Choking or gagging when swallowing, Regurgitation'),
+('Dystonia', 'Involuntary muscle contractions, Twisting or repetitive movements, Abnormal postures, Tremors, Muscle cramps');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Earache', 'Pain in the ear, Hearing loss, Fluid drainage from the ear, Ear redness or swelling'),
+('Earwax Build-Up', 'Earache, Hearing loss, Tinnitus (ringing in the ears), Dizziness'),
+('Ectopic Pregnancy', 'Abdominal pain, Vaginal bleeding, Shoulder pain, Weakness, Dizziness'),
+('Endometriosis', 'Pelvic pain, Painful periods, Pain during intercourse, Infertility, Fatigue'),
+('Epilepsy', 'Seizures, Temporary confusion, Staring spells, Uncontrollable jerking movements or twitching'),
+('Erectile Dysfunction', 'Difficulty achieving or maintaining an erection, Reduced sexual desire, Premature ejaculation, Stress or anxiety');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Escherichia coli (E. coli) O157', 'Severe abdominal cramps, Diarrhea (often bloody), Vomiting, Fever, Nausea'),
+('Ewing Sarcoma', 'Bone pain, Swelling or tenderness near the affected area, Fever, Fatigue, Unexplained weight loss'),
+('Eye Cancer', 'Blurred or distorted vision, Floaters in the eye, Eye pain, Redness or swelling, Changes in the appearance of the eye'),
+('Fabry Disease', 'Pain and burning sensations in the hands and feet, Skin rashes, Gastrointestinal issues, Hearing loss, Heart and kidney problems'),
+('Fainting', 'Sudden loss of consciousness, Brief duration, Sweating, Lightheadedness, Nausea'),
+('Falls', 'Loss of balance, Weakness, Dizziness, Difficulty walking, Environmental hazards');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Fatty Liver Disease', 'Fatigue, Weakness, Abdominal pain or discomfort, Enlarged liver, Jaundice'),
+('Fever', 'Elevated body temperature, Chills, Sweating, Headache, Muscle aches'),
+('Fibroids', 'Pelvic pain or pressure, Heavy menstrual bleeding, Menstrual periods lasting longer than a week, Frequent urination, Backache or leg pains'),
+('Fibromyalgia', 'Widespread pain, Fatigue, Sleep disturbances, Joint stiffness, Headaches'),
+('Flatulence', 'Passing gas, Feeling bloated, Belching, Abdominal discomfort or pain'),
+('Flu', 'Fever, Cough, Sore throat, Body aches, Fatigue');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Foetal Alcohol Syndrome', 'Facial deformities, Growth deficiencies, Central nervous system problems, Cognitive and behavioral issues'),
+('Food Poisoning', 'Nausea, Vomiting, Diarrhea, Abdominal pain or cramps, Fever'),
+('Fragile X Syndrome', 'Intellectual disabilities, Speech and language delays, Social and behavioral challenges, Hyperactivity, Sensory issues'),
+('Friedreich’s Ataxia', 'Coordination and balance problems, Muscle weakness, Fatigue, Vision and hearing problems, Scoliosis'),
+('Frozen Shoulder', 'Pain and stiffness in the shoulder, Limited range of motion, Difficulty raising the arm'),
+('Gallbladder Cancer', 'Abdominal pain, Unintended weight loss, Jaundice, Fever, Nausea, Vomiting');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Gallstones', 'Severe abdominal pain, Back pain between the shoulder blades, Nausea, Vomiting, Jaundice'),
+('Ganglion Cyst', 'Round or oval lump, Often on the wrist or fingers, Fluid-filled, Pain or tenderness'),
+('Gastro-Oesophageal Reflux Disease (GORD)', 'Heartburn, Regurgitation, Chest pain, Difficulty swallowing, Chronic cough'),
+('Gastroenteritis', 'Diarrhea, Nausea, Vomiting, Abdominal cramps, Fever'),
+('Gaucher’s Disease', 'Enlarged spleen or liver, Anemia, Fatigue, Bone pain, Easy bruising or bleeding'),
+('Genital Herpes', 'Painful sores or blisters in the genital or anal area, Itching or tingling, Flu-like symptoms, Swollen lymph nodes');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Genital Warts', 'Small growths or lumps in the genital or anal area, Itching, Bleeding during sex, Pain during intercourse'),
+('Glandular Fever', 'Severe fatigue, Sore throat, Swollen lymph nodes, Fever, Headache'),
+('Glaucoma', 'Gradual loss of peripheral vision, Tunnel vision, Eye pain, Nausea or vomiting, Blurred vision'),
+('Glioblastoma', 'Headache, Nausea or vomiting, Seizures, Changes in personality or mood, Memory loss'),
+('Goitre', 'Swelling of the thyroid gland in the neck, Difficulty swallowing or breathing, Hoarseness'),
+('Gonorrhoea', 'Painful urination, Abnormal discharge from the genitals, Pain or swelling in the testicles, Rectal discomfort or discharge');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Gout', 'Severe joint pain, Swelling, Redness, Tenderness, Limited range of motion'),
+('Guillain-Barré Syndrome', 'Tingling or weakness starting in the legs, Progressing to the upper body, Paralysis, Difficulty breathing'),
+('Haemochromatosis', 'Fatigue, Joint pain, Abdominal pain, Weakness, Unintended weight loss'),
+('Haemophilia', 'Excessive bleeding, Easy bruising, Joint pain and swelling, Nosebleeds, Blood in urine or stool'),
+('Haemorrhoids', 'Pain or discomfort, Itching, Bleeding during bowel movements, Swelling around the anus'),
+('Hairy Cell Leukaemia', 'Fatigue, Enlarged spleen or liver, Easy bruising or bleeding, Frequent infections');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Hand, Foot and Mouth Disease', 'Fever, Sore throat, Painful sores or blisters on the hands, feet, and mouth, Rash'),
+('Hay Fever', 'Sneezing, Runny or stuffy nose, Itchy or watery eyes, Itchy throat or ears, Fatigue'),
+('Head and Neck Cancer', 'Persistent sore throat, Difficulty swallowing, Unexplained weight loss, Changes in voice, Swelling or lumps in the neck'),
+('Head Lice and Nits', 'Itching of the scalp, Visible lice or nits in the hair, Red bumps on the scalp or neck'),
+('Healthy Eating', 'Balanced diet, Adequate intake of fruits and vegetables, Portion control, Limited processed foods, Hydration'),
+('Hearing Loss', 'Difficulty hearing conversations, Ringing in the ears (tinnitus), Muffled or distorted hearing, Ear pain or discomfort');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Heart Failure', 'Shortness of breath, Fatigue, Swelling in the legs or abdomen, Rapid or irregular heartbeat, Persistent cough'),
+('Heartburn and Gastro-Oesophageal Reflux Disease (GORD)', 'Burning sensation in the chest (heartburn), Regurgitation of stomach acid, Chest pain, Difficulty swallowing'),
+('Heat Exhaustion and Heatstroke', 'Heavy sweating, Rapid pulse, Nausea or vomiting, Confusion, Fainting'),
+('Heel Pain', 'Pain or tenderness in the heel, Difficulty walking or standing, Swelling, Redness'),
+('Helicobacter pylori (H. pylori) Infection', 'Abdominal pain, Nausea, Bloating, Loss of appetite, Unintended weight loss'),
+('Hemianopia', 'Loss of vision in one half of the visual field, Difficulty with peripheral vision, Problems with depth perception');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Hepatitis A', 'Fatigue, Nausea, Abdominal pain, Jaundice, Dark urine, Clay-colored stools'),
+('Hepatitis B', 'Fatigue, Loss of appetite, Jaundice, Abdominal pain, Joint pain'),
+('Hepatitis C', 'Fatigue, Loss of appetite, Jaundice, Abdominal pain, Dark urine, Joint pain'),
+('Hiatus Hernia', 'Heartburn, Regurgitation, Chest pain, Difficulty swallowing'),
+('High Cholesterol', 'No specific symptoms, Elevated levels detected through blood tests, Risk of atherosclerosis and heart disease'),
+('HIV', 'Flu-like symptoms (fever, fatigue, muscle aches), Swollen lymph nodes, Rash, Sore throat, Night sweats');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Hodgkin Lymphoma', 'Swollen lymph nodes, Fever, Night sweats, Unexplained weight loss, Fatigue'),
+('Huntington’s Disease', 'Involuntary movements, Difficulty with coordination, Cognitive decline, Mood changes'),
+('Hyperglycaemia (High Blood Sugar)', 'Increased thirst, Frequent urination, Fatigue, Blurred vision, Slow wound healing'),
+('Hyperhidrosis', 'Excessive sweating, Sweating unrelated to physical activity or temperature'),
+('Hypertension (High Blood Pressure)', 'Headache, Fatigue, Chest pain, Dizziness, Shortness of breath'),
+('Hyperthyroidism (Overactive Thyroid)', 'Weight loss, Rapid heartbeat, Anxiety, Tremors, Sweating, Fatigue');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Hypoglycaemia (Low Blood Sugar)', 'Shakiness, Sweating, Confusion, Irritability, Dizziness, Rapid heartbeat'),
+('Hypothyroidism (Underactive Thyroid)', 'Fatigue, Weight gain, Cold intolerance, Dry skin, Hair loss, Depression'),
+('Idiopathic Pulmonary Fibrosis', 'Shortness of breath, Persistent dry cough, Fatigue, Unexplained weight loss'),
+('Impetigo', 'Red sores or blisters, Oozing and crusting, Itching, Swollen lymph nodes'),
+('Indigestion', 'Burning sensation in the chest or upper abdomen, Bloating, Belching, Nausea, Fullness or discomfort'),
+('Ingrown Toenail', 'Pain and tenderness along the side of the toenail, Redness, Swelling, Infection');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Insomnia', 'Difficulty falling asleep, Difficulty staying asleep, Waking up too early, Daytime sleepiness, Fatigue'),
+('Iron Deficiency Anaemia', 'Fatigue, Weakness, Pale or sallow skin, Shortness of breath, Dizziness'),
+('Irritable Bowel Syndrome (IBS)', 'Abdominal pain or discomfort, Bloating, Changes in bowel habits, Gas, Mucus in the stool'),
+('Irritable Hip', 'Hip pain, Difficulty walking, Limited range of motion, Hip stiffness'),
+('Itching', 'Pruritus (itchy skin), Rash, Redness, Dry or cracked skin, Bumps or blisters'),
+('Itchy Bottom', 'Anal itching, Redness or inflammation around the anus, Discomfort or pain');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Jaundice', 'Yellowing of the skin and eyes, Dark urine, Pale-colored stool, Itchy skin'),
+('Jet Lag', 'Fatigue, Insomnia, Difficulty concentrating, Irritability, Gastrointestinal discomfort'),
+('Kidney Cancer', 'Blood in urine, Back or side pain, Unintended weight loss, Fatigue, Fever'),
+('Kidney Infection', 'Frequent urination, Pain or burning during urination, Back or side pain, Fever, Nausea'),
+('Kidney Stones', 'Severe pain in the back or side, Blood in urine, Frequent urination, Cloudy or foul-smelling urine'),
+('Labyrinthitis', 'Vertigo or dizziness, Nausea, Vomiting, Hearing loss, Ringing in the ears (tinnitus)');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Lactose Intolerance', 'Bloating, Diarrhea, Abdominal cramps, Gas, Nausea'),
+('Langerhans Cell Histiocytosis', 'Bone pain, Skin rash or sores, Swollen lymph nodes, Fever, Weight loss'),
+('Laryngeal (Larynx) Cancer', 'Hoarseness, Persistent cough, Difficulty swallowing, Ear pain, Unexplained weight loss'),
+('Laryngitis', 'Hoarseness, Sore throat, Dry cough, Difficulty swallowing'),
+('Legionnaires’ Disease', 'Cough, Shortness of breath, Fever, Muscle aches, Headache'),
+('Leukaemia', 'Fatigue, Pale skin, Frequent infections, Unintended weight loss, Easy bruising or bleeding');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Lichen Planus', 'Itchy, flat-topped bumps, Purple or reddish lesions, Mouth sores, Hair loss'),
+('Liver Cancer', 'Abdominal pain or discomfort, Unexplained weight loss, Jaundice, Fatigue'),
+('Liver Disease', 'Fatigue, Weakness, Abdominal pain or swelling, Jaundice, Easy bruising'),
+('Liver Tumour', 'Abdominal pain or discomfort, Unexplained weight loss, Fatigue, Jaundice'),
+('Loss of Libido', 'Decreased sexual desire or interest, Difficulty with arousal or orgasm, Relationship issues'),
+('Lung Cancer', 'Persistent cough, Chest pain, Shortness of breath, Coughing up blood, Unintended weight loss');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Lupus', 'Joint pain or swelling, Fatigue, Skin rash, Fever, Chest pain'),
+('Lyme Disease', 'Bull`s-eye rash, Flu-like symptoms, Fatigue, Joint pain or swelling, Headache'),
+('Lymphedema', 'Swelling in one or more limbs, Heaviness or tightness in the affected area, Limited range of motion'),
+('Malaria', 'Fever, Chills, Sweating, Headache, Nausea, Vomiting'),
+('Male Breast Cancer', 'Lump in the breast, Changes in the nipple, Breast pain, Swelling'),
+('Malignant Brain Tumour (Cancerous)', 'Headache, Seizures, Changes in vision, Nausea or vomiting, Personality changes');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Malignant Mesothelioma', 'Shortness of breath, Chest pain, Persistent cough, Unexplained weight loss, Fatigue'),
+('Measles', 'High fever, Cough, Runny nose, Red, watery eyes, Koplik spots (small white spots in the mouth)'),
+('Ménière’s Disease', 'Vertigo or dizziness, Hearing loss, Tinnitus (ringing in the ears), Ear pressure or fullness'),
+('Meningitis', 'Headache, Stiff neck, Fever, Sensitivity to light, Nausea or vomiting'),
+('Menopause', 'Irregular periods, Hot flashes, Night sweats, Mood swings, Fatigue'),
+('Mesothelioma', 'Shortness of breath, Chest pain, Persistent cough, Unexplained weight loss, Fatigue');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Middle Ear Infection (Otitis Media)', 'Ear pain or discomfort, Hearing loss, Fluid drainage from the ear, Irritability in children'),
+('Migraine', 'Severe headache, Throbbing pain, Sensitivity to light and sound, Nausea or vomiting'),
+('Miscarriage', 'Vaginal bleeding or spotting, Abdominal cramps, Pain or pressure in the lower back'),
+('Moles', 'Moles with irregular borders, Varied colors within a mole, Changes in size or shape, Itching or bleeding'),
+('Motor Neurone Disease (MND)', 'Muscle weakness, Difficulty speaking or swallowing, Twitching or cramping, Stiffness'),
+('Mouth Cancer', 'Persistent mouth ulcers, Red or white patches in the mouth, Swelling or lumps, Difficulty swallowing');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Mouth Ulcer', 'Painful sores or lesions in the mouth, Redness or inflammation, Difficulty eating or drinking'),
+('Multiple Myeloma', 'Bone pain, Fatigue, Frequent infections, Unexplained weight loss, Weakness or numbness'),
+('Multiple Sclerosis (MS)', 'Fatigue, Difficulty walking, Numbness or tingling, Muscle weakness, Problems with coordination'),
+('Mumps', 'Swollen and painful salivary glands, Fever, Headache, Muscle aches, Fatigue'),
+('Myasthenia Gravis', 'Muscle weakness, Drooping of the eyelids, Double vision, Difficulty speaking or swallowing'),
+('Myelodysplasia (Myelodysplastic Syndromes)', 'Fatigue, Shortness of breath, Easy bruising or bleeding, Frequent infections');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Myeloma', 'Bone pain, Fatigue, Frequent infections, Unexplained weight loss, Weakness or numbness'),
+('Nasal and Sinus Cancer', 'Persistent nasal congestion, Sinus pain or pressure, Postnasal drip, Nosebleeds'),
+('Nasopharyngeal Cancer', 'Neck lump, Hearing loss, Tinnitus (ringing in the ears), Difficulty swallowing'),
+('Neuroblastoma', 'Abdominal pain or swelling, Changes in bowel habits, Blue or purple lumps under the skin, Fever'),
+('Neurofibromatosis Type 1', 'Café-au-lait spots (brown skin patches), Freckling in the armpit or groin, Soft bumps on or under the skin'),
+('Neurofibromatosis Type 2', 'Hearing loss, Ringing in the ears (tinnitus), Balance problems, Facial weakness or numbness');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Non-Alcoholic Fatty Liver Disease (NAFLD)', 'Fatigue, Enlarged liver, Abdominal swelling, Weakness, Jaundice'),
+('Non-Hodgkin Lymphoma', 'Swollen lymph nodes, Fever, Night sweats, Unexplained weight loss, Fatigue'),
+('Norovirus', 'Nausea, Vomiting, Diarrhea, Abdominal pain, Fever'),
+('Nosebleed (Epistaxis)', 'Bleeding from the nose, Dizziness, Weakness, Paleness'),
+('Obesity', 'Excess body weight, BMI above normal range, Increased risk of health issues'),
+('Obsessive Compulsive Disorder (OCD)', 'Obsessions (intrusive thoughts), Compulsions (repetitive behaviors or mental acts), Anxiety');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Obstructive Sleep Apnoea', 'Loud snoring, Pauses in breathing during sleep, Choking or gasping during sleep, Daytime sleepiness'),
+('Oesophageal Cancer', 'Difficulty swallowing, Unintended weight loss, Chest pain or discomfort, Chronic cough'),
+('Oral Thrush in Adults', 'White patches on the tongue, inner cheeks, or roof of the mouth, Redness or soreness, Difficulty swallowing'),
+('Osteoarthritis', 'Joint pain, Stiffness, Swelling, Reduced range of motion'),
+('Osteoporosis', 'Bone fractures, Loss of height over time, Back pain, Stooped posture'),
+('Ovarian Cancer', 'Abdominal pain or swelling, Unexplained weight loss, Pelvic pain, Changes in bowel habits, Fatigue');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Ovarian Cyst', 'Pelvic pain or discomfort, Bloating, Changes in bowel habits, Frequent urination'),
+('Overactive Thyroid', 'Weight loss, Rapid heartbeat, Anxiety, Tremors, Sweating, Fatigue'),
+('Paget’s Disease of the Nipple', 'Itching or redness of the nipple, Flaky or crusty skin on the nipple, Unusual discharge from the nipple'),
+('Pancreatic Cancer', 'Abdominal pain or discomfort, Unintended weight loss, Jaundice, Back pain, Digestive problems'),
+('Panic Disorder', 'Sudden and repeated panic attacks, Feeling of impending doom, Rapid heartbeat, Sweating, Shaking'),
+('Parkinson’s Disease', 'Tremors, Bradykinesia (slowed movement), Muscle rigidity, Impaired balance, Changes in handwriting (micrographia)');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Pelvic Organ Prolapse', 'Feeling of fullness or pressure in the pelvic area, Pelvic pain or discomfort, Incontinence, Constipation'),
+('Penile Cancer', 'Change in color or thickness of the skin on the penis, Lump or growth on the penis, Pain or discomfort'),
+('Peripheral Neuropathy', 'Numbness or tingling in the hands or feet, Weakness, Sharp or burning pain, Sensitivity to touch'),
+('Personality Disorder', 'Patterns of thoughts, feelings, and behaviors that deviate from the cultural norm, Interference with daily functioning, Difficulty forming and maintaining relationships'),
+('Peyronie’s Disease', 'Curvature of the penis during an erection, Pain or discomfort during erections, Scar tissue or plaques on the penis'),
+('Phobias', 'Intense fear of a specific object or situation, Avoidance of the feared object or situation, Anxiety or panic attacks');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Piles (Haemorrhoids)', 'Bleeding during bowel movements, Itching or irritation in the anal region, Pain or discomfort'),
+('Pityriasis Rosea', 'Single, large, scaly patch (herald patch), Smaller, oval patches on the trunk and limbs, Itching'),
+('Pityriasis Versicolor', 'Patches of discolored skin, Scaling or flaking, Itching'),
+('Pleurisy', 'Chest pain, Sharp or stabbing pain during breathing, Shortness of breath'),
+('Pneumonia', 'Cough, Shortness of breath, Chest pain, Fever, Chills, Fatigue'),
+('Polycystic Ovary Syndrome (PCOS)', 'Irregular periods, Excess hair growth, Acne, Weight gain, Difficulty getting pregnant');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Polymyalgia Rheumatica', 'Muscle pain and stiffness, Limited range of motion, Fatigue, Fever, Unintended weight loss'),
+('Post-Traumatic Stress Disorder (PTSD)', 'Flashbacks, Nightmares, Intrusive thoughts, Avoidance of reminders, Hyperarousal'),
+('Postnatal Depression', 'Persistent sadness or low mood, Fatigue, Irritability, Difficulty bonding with the baby'),
+('Preeclampsia', 'High blood pressure, Swelling in the hands and face, Protein in the urine, Headache, Abdominal pain'),
+('Pressure Ulcers', 'Localized damage to the skin and underlying tissue, Open sores or wounds, Red or discolored skin'),
+('Prostate Cancer', 'Frequent urination, Weak or interrupted urine flow, Blood in the urine or semen, Erectile dysfunction, Pain or discomfort during ejaculation');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Psoriasis', 'Red, inflamed skin patches covered with silvery scales, Itching or burning, Thickened or pitted nails'),
+('Psoriatic Arthritis', 'Joint pain and swelling, Morning stiffness, Tender and swollen fingers or toes'),
+('Pulmonary Embolism', 'Shortness of breath, Chest pain (may become worse with deep breaths), Rapid heartbeat, Cough, Sweating'),
+('Pulmonary Fibrosis', 'Shortness of breath, Persistent dry cough, Fatigue, Unexplained weight loss'),
+('Pulmonary Hypertension', 'Shortness of breath, Fatigue, Chest pain or pressure, Rapid heartbeat, Swelling in the legs or ankles'),
+('Raynaud’s Phenomenon', 'Color changes in the skin of fingers and toes in response to cold or stress, Numbness or tingling, Pain or throbbing');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Reactive Arthritis', 'Joint pain and swelling, Inflammation of the eyes, Painful urination, Skin rash'),
+('Restless Legs Syndrome', 'Uncomfortable sensations in the legs, Urge to move legs, Worsening of symptoms at rest or in the evening'),
+('Retinoblastoma', 'White reflection in the pupil (cat`s eye reflex), Crossed eyes, Redness or swelling of the eye'),
+('Rhabdomyosarcoma', 'Swelling or lump that doesn’t go away, Pain, Difficulty with bowel or bladder function, Unexplained weight loss'),
+('Rheumatoid Arthritis', 'Joint pain and swelling, Morning stiffness, Fatigue, Fever, Joint deformity'),
+('Ringworm and Other Fungal Infections', 'Red, itchy, and scaly skin patches, Circular rash with raised edges, Itching');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Rosacea', 'Redness or flushing of the face, Small, red bumps or pimples, Visible blood vessels, Eye irritation'),
+('Scabies', 'Itching that worsens at night, Red or rash-like bumps, Thin, irregular burrow tracks'),
+('Scarlet Fever', 'Red rash that feels like sandpaper, Fever, Sore throat, Headache, Swollen glands'),
+('Schizophrenia', 'Hallucinations, Delusions, Disorganized thinking, Lack of motivation, Social withdrawal'),
+('Scleroderma', 'Thickening and hardening of the skin, Raynaud’s phenomenon, Joint pain and stiffness, Digestive problems'),
+('Scoliosis', 'Uneven shoulders or hips, Back pain, Difficulty breathing, Prominent ribs on one side');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Seasonal Affective Disorder (SAD)', 'Low energy, Depressed mood, Irritability, Changes in sleep patterns, Weight gain'),
+('Seborrhoeic Dermatitis', 'Red and itchy skin, Greasy or oily areas, Dandruff, Crusty or scaly patches'),
+('Sexually Transmitted Infections (STIs)', 'Painful urination, Unusual discharge, Genital sores or ulcers, Itching or irritation'),
+('Shingles', 'Pain, Burning, or Tingling, Rash with blisters, Itching, Fever, Fatigue'),
+('Shortness of Breath', 'Difficulty breathing, Rapid breathing, Wheezing, Chest pain or discomfort'),
+('Sickle Cell Disease', 'Painful episodes (crisis), Fatigue, Shortness of breath, Jaundice, Swelling of hands and feet');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Sinusitis', 'Nasal congestion, Sinus pain or pressure, Runny nose, Cough, Headache'),
+('Skin Cancer (Melanoma)', 'Changes in the appearance of moles, Irregular borders, Varied colors, Itching or bleeding'),
+('Skin Cancer (Non-Melanoma)', 'Changes in the skin, New growths or sores, Changes in existing moles or spots'),
+('Slapped Cheek Syndrome', 'Red rash on the face (resembling a slapped cheek), Fever, Body rash'),
+('Sleep Apnoea', 'Loud snoring, Pauses in breathing during sleep, Choking or gasping during sleep, Daytime sleepiness'),
+('Sleep Paralysis', 'Inability to move or speak while falling asleep or waking up, Hallucinations, Feeling of pressure on the chest');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Slipped Disc', 'Back pain, Numbness or tingling, Weakness, Pain that worsens with certain movements'),
+('Soft Tissue Sarcomas', 'Lump or swelling, Pain or tenderness, Limited range of motion, Fatigue'),
+('Sore Throat', 'Pain or irritation in the throat, Difficulty swallowing, Swollen glands, Hoarseness'),
+('Spleen Problems and Spleen Removal', 'Left upper abdominal pain, Feeling full without eating much, Fatigue, Easy bruising'),
+('Stomach Ache and Abdominal Pain', 'Crampy or colicky pain, Sharp or stabbing pain, Dull ache, Bloating'),
+('Stomach Cancer', 'Indigestion or heartburn, Abdominal pain or discomfort, Nausea, Unexplained weight loss, Difficulty swallowing');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Stomach Ulcer', 'Burning stomach pain, Bloating, Nausea, Vomiting, Dark or black stool'),
+('Stress, Anxiety and Low Mood', 'Feeling anxious or worried, Fatigue, Irritability, Changes in sleep patterns, Low mood'),
+('Stroke', 'Sudden numbness or weakness, Confusion, Trouble speaking or understanding speech, Severe headache'),
+('Sudden Infant Death Syndrome (SIDS)', 'Sudden and unexplained death of an otherwise healthy infant during sleep'),
+('Sudden Unexpected Death in Infancy (SUDI)', 'Unexplained death of an infant, often during sleep'),
+('Suicide', 'Intentional self-harm, Expressing thoughts of suicide, Withdrawal from friends and activities, Drastic changes in mood or behavior');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Sunburn', 'Red, painful skin, Swelling, Blisters, Peeling'),
+('Swollen Glands', 'Enlarged and tender lymph nodes, Pain or tenderness, Redness over the swollen area'),
+('Tendonitis', 'Pain, Swelling, Tenderness, Limited range of motion'),
+('Testicular Cancer', 'Lump or swelling in the testicle, Pain or discomfort in the testicle or scrotum, Feeling of heaviness'),
+('Testicular Lumps and Swellings', 'Lump or swelling in the testicle or scrotum, Pain or discomfort'),
+('Throat Cancer', 'Persistent sore throat, Hoarseness, Difficulty swallowing, Unexplained weight loss');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Thyroid Cancer', 'Lump or swelling in the neck, Hoarseness, Difficulty swallowing, Neck pain'),
+('Tinnitus', 'Ringing, buzzing, or hissing sounds in the ears, Hearing loss'),
+('Tonsillitis', 'Sore throat, Swollen tonsils, Difficulty swallowing, Fever'),
+('Tooth Decay', 'Toothache, Sensitivity to hot or cold, Pain while chewing, Discoloration of the tooth'),
+('Toothache', 'Pain or discomfort in or around the tooth, Swelling, Sensitivity to hot or cold'),
+('Transient Ischaemic Attack (TIA)', 'Sudden weakness or numbness on one side of the body, Difficulty speaking, Loss of balance or coordination');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Trigeminal Neuralgia', 'Severe, stabbing pain in the face, Episodes of intense pain that may come and go'),
+('Tuberculosis (TB)', 'Persistent cough, Fatigue, Weight loss, Night sweats, Fever'),
+('Type 1 Diabetes', 'Increased thirst, Frequent urination, Unexplained weight loss, Fatigue'),
+('Type 2 Diabetes', 'Increased thirst, Frequent urination, Unexplained weight loss, Fatigue'),
+('Ulcerative Colitis', 'Abdominal pain, Diarrhea (often with blood), Urgency to have bowel movements, Fatigue'),
+('Underactive Thyroid', 'Fatigue, Weight gain, Dry skin, Constipation, Cold intolerance');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Urinary Incontinence', 'Involuntary leakage of urine, Urgency to urinate, Frequent urination'),
+('Urinary Tract Infection (UTI)', 'Burning sensation during urination, Frequent urination, Cloudy or strong-smelling urine, Lower abdominal pain'),
+('Urticaria (Hives)', 'Raised, red, itchy welts on the skin, Swelling, Burning or stinging sensation'),
+('Vaginal Cancer', 'Abnormal vaginal bleeding, Pelvic pain or discomfort, Pain during intercourse, Vaginal discharge'),
+('Vaginal Thrush', 'Itching or soreness in the genital area, Thick, white discharge, Pain during intercourse'),
+('Varicose Eczema', 'Red, scaly, and itchy skin, Swelling, Discoloration, Weeping or oozing sores');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Varicose Veins', 'Twisted, bulging veins, Aching or throbbing pain, Itching, Swelling in the legs'),
+('Venous Leg Ulcer', 'Open sore on the leg, Swelling, Pain or discomfort, Discoloration of the skin'),
+('Vertigo', 'Dizziness, Spinning sensation, Loss of balance, Nausea or vomiting'),
+('Viral Meningitis', 'Headache, Fever, Stiff neck, Sensitivity to light, Nausea or vomiting'),
+('Vitiligo', 'Loss of skin color in patches, Premature graying or whitening of the hair, Loss of color in the tissues inside the mouth or nose'),
+('Vomiting', 'Forceful expulsion of stomach contents through the mouth, Nausea, Abdominal pain or discomfort');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Vulval Cancer', 'Itching, Pain or tenderness, Changes in skin color or thickness, Lump or sore on the vulva'),
+('Warts and Verrucas', 'Small growths on the skin, Rough texture, Black dots (blood vessels), Pain or tenderness'),
+('Whooping Cough', 'Severe coughing fits, "Whooping" sound during inhale, Vomiting after coughing'),
+('Wilms’ Tumour', 'Abdominal swelling or pain, Blood in the urine, Fever, High blood pressure'),
+('Yellow Fever', 'Fever, Headache, Muscle pain, Jaundice, Bleeding'),
+('Zika Virus', 'Fever, Rash, Joint pain, Conjunctivitis (red eyes), Muscle pain');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Zollinger-Ellison Syndrome', 'Abdominal pain or burning, Diarrhea, Nausea, Vomiting, Weight loss'),
+('Febrile Seizures', 'Convulsions or jerking movements during a fever, Loss of consciousness, Body stiffness'),
+('Functional Neurological Disorder (FND)', 'Neurological symptoms that cannot be explained by an underlying medical condition'),
+('Fungal Nail Infection', 'Thickened, discolored nails, Brittleness, Debris under the nail'),
+('Germ Cell Tumours', 'Lump or swelling in the testicle or ovary, Abdominal pain, Unexplained weight loss'),
+('Gum Disease', 'Red, swollen, or bleeding gums, Receding gums, Bad breath, Loose teeth');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Haemorrhoids (Piles)', 'Bleeding during bowel movements, Itching or irritation in the anal region, Pain or discomfort'),
+('Infectious Diseases', 'Varied symptoms depending on the specific infectious agent involved'),
+('Acinetobacter baumannii Infection', 'Fever, Cough, Pneumonia, Skin or wound infections'),
+('Actinomyces israelii Infection', 'Abscesses or lumps, Draining sores, Fever'),
+('Adenoviridae Infection', 'Fever, Sore throat, Pink eye, Gastrointestinal symptoms'),
+('Inflammatory Bowel Disease (IBD)', 'Abdominal pain, Diarrhea, Weight loss, Fatigue');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Influenza (Flu)', 'Fever, Cough, Sore throat, Body aches, Fatigue'),
+('Ingrown Hair', 'Pain or tenderness, Redness, Swelling, Infection'),
+('Insulin Resistance', 'High blood sugar, Fatigue, Increased hunger, Difficulty losing weight'),
+('Interstitial Cystitis', 'Pelvic pain, Urgency and frequency of urination, Painful urination, Pain during intercourse'),
+('Intestinal Obstruction', 'Abdominal pain, Bloating, Vomiting, Inability to pass stool or gas'),
+('Intracranial Hematoma', 'Headache, Dizziness, Nausea or vomiting, Changes in vision or consciousness');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Ischemic Colitis', 'Abdominal pain, Diarrhea, Blood in the stool, Urgency to have bowel movements'),
+('Itchy Eyes', 'Redness, Watery eyes, Swelling, Itching'),
+('Jaundice in Newborns', 'Yellowing of the skin and eyes, Poor feeding, High-pitched crying');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Jet Lag Disorder', 'Fatigue, Insomnia or disturbed sleep, Difficulty concentrating, Irritability'),
+('Kawasaki Disease', 'Fever, Rash, Red eyes, Swollen hands and feet, Strawberry tongue'),
+('Kidney Cysts', 'Fluid-filled sacs in the kidneys, Back or abdominal pain, High blood pressure'),
+('Kleptomania', 'Compulsive stealing without personal gain or need'),
+('Klinefelter Syndrome', 'Infertility, Small testicles, Breast enlargement, Reduced facial and body hair'),
+('Knee Bursitis', 'Pain, Swelling, Warmth or redness over the knee, Limited range of motion');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Knee Pain', 'Pain or discomfort in the knee, Swelling, Stiffness, Limited range of motion'),
+('Lazy Eye (Amblyopia)', 'Reduced vision in one eye, Poor depth perception, Squinting'),
+('Lead Poisoning', 'Abdominal pain, Fatigue, Headache, Memory loss, Behavioral changes'),
+('Leukemia', 'Fatigue, Pale skin, Frequent infections, Easy bruising, Enlarged lymph nodes or spleen');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Lice', 'Itching, Red bumps or sores, Visible lice or nits in the hair'),
+('Liver Hemangioma', 'Most cases are asymptomatic, Possible abdominal pain or discomfort'),
+('Long QT Syndrome', 'Fainting or near fainting, Irregular heartbeats, Seizures');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Low Blood Pressure (Hypotension)', 'Dizziness or lightheadedness, Fainting, Blurred or narrowing vision, Fatigue'),
+('Macular Degeneration', 'Blurred or distorted central vision, Difficulty reading or recognizing faces, Dark or empty areas in vision');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Male Infertility', 'Difficulty conceiving, Problems with ejaculation, Low sperm count or quality'),
+('Malignant Hyperthermia', 'Rapid rise in body temperature, Muscle rigidity, Rapid heart rate, Sweating'),
+('Marfan Syndrome', 'Tall and slender build, Long arms, Legs, and fingers, Flexible joints, Heart problems'),
+('Mastitis', 'Breast pain or tenderness, Swelling, Warmth or redness, Fever'),
+('Medulloblastoma', 'Headache, Nausea or vomiting, Balance problems, Changes in vision or hearing');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Melanoma', 'Changes in the appearance of moles, Irregular borders, Varied colors, Itching or bleeding'),
+('Meningioma', 'Headache, Seizures, Weakness or numbness, Changes in vision or speech'),
+('Menorrhagia', 'Heavy or prolonged menstrual bleeding, Passing blood clots, Fatigue, Anemia'),
+('Metabolic Syndrome', 'High blood pressure, Elevated blood sugar, Abdominal obesity, Abnormal cholesterol levels');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Mitral Valve Prolapse', 'Heart palpitations, Fatigue, Dizziness or lightheadedness, Chest discomfort'),
+('Mononucleosis', 'Fatigue, Sore throat, Fever, Swollen lymph nodes'),
+('Multiple Sclerosis', 'Fatigue, Numbness or weakness, Difficulty walking, Blurred or double vision'),
+('Muscular Dystrophy', 'Progressive muscle weakness, Difficulty walking, Muscle stiffness, Contractures');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Myelofibrosis', 'Fatigue, Shortness of breath, Pale skin, Enlarged spleen or liver'),
+('Myocarditis', 'Chest pain or discomfort, Fatigue, Shortness of breath, Rapid or irregular heartbeats'),
+('Narcolepsy', 'Excessive daytime sleepiness, Sudden loss of muscle tone (cataplexy), Sleep paralysis, Hallucinations'),
+('Nasopharyngeal Carcinoma', 'Nasal congestion, Nosebleeds, Hearing loss, Swollen lymph nodes'),
+('Nephrotic Syndrome', 'Swelling (edema), Protein in the urine, High cholesterol, Decreased urine output');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Neurodermatitis', 'Itchy skin, Rash or red patches, Thickened or scaly skin, Changes in skin color'),
+('Neurofibromatosis', 'Multiple soft tumors on or under the skin, Café-au-lait spots, Bone deformities'),
+('Nonalcoholic Fatty Liver Disease', 'Fatigue, Abdominal pain or discomfort, Enlarged liver, Elevated liver enzymes'),
+('Obsessive-Compulsive Disorder (OCD)', 'Obsessions (intrusive thoughts), Compulsions (repetitive behaviors), Anxiety');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Paget’s Disease of Bone', 'Bone pain or tenderness, Joint pain, Deformed bones, Hearing loss'),
+('Panic Attacks and Panic Disorder', 'Sudden and intense fear or discomfort, Rapid heart rate, Sweating, Trembling'),
+('Pelvic Inflammatory Disease (PID)', 'Lower abdominal pain, Fever, Vaginal discharge with odor, Painful intercourse');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Peptic Ulcer', 'Abdominal pain, Bloating, Nausea, Heartburn'),
+('Pericarditis', 'Chest pain, Shortness of breath, Fatigue, Fever'),
+('Peripheral Artery Disease (PAD)', 'Leg pain or cramping, Weakness or numbness, Coldness in the lower leg or foot');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Postpartum Depression', 'Persistent sadness, Crying spells, Sleep disturbances, Loss of interest or pleasure'),
+('Premature Ejaculation', 'Ejaculation that occurs too quickly, Lack of control over ejaculation'),
+('Premenstrual Syndrome (PMS)', 'Mood swings, Irritability, Fatigue, Bloating, Breast tenderness');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Q Fever', 'High fever, Severe headache, Muscle aches, Sweating'),
+('Raynaud’s Disease', 'Color changes in the skin of fingers and toes in response to cold or stress, Numbness or tingling, Pain or throbbing'),
+('Sarcoidosis', 'Fatigue, Persistent cough, Shortness of breath, Skin rashes or sores');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Sepsis', 'Fever, Rapid heart rate, Confusion, Shortness of breath'),
+('Shigellosis', 'Diarrhea, Fever, Abdominal cramps, Tenesmus (straining during bowel movements)'),
+('Sickle Cell Anemia', 'Fatigue, Shortness of breath, Pale or jaundiced skin, Painful episodes (crisis)'),
+('Spinal Cord Injury', 'Loss of movement or sensation, Difficulty breathing, Loss of bowel or bladder control'),
+('Stevens-Johnson Syndrome', 'Painful, blistering skin rash, Facial swelling, Fever, Sore throat'),
+('Strep Throat', 'Sore throat, Fever, Headache, Red and swollen tonsils, White patches on the tonsils');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Temporomandibular Joint Disorder (TMJ)', 'Jaw pain or tenderness, Difficulty chewing, Clicking or popping sounds in the jaw'),
+('Tetanus', 'Muscle stiffness, Jaw cramping, Difficulty swallowing, Fever'),
+('Thalassemia', 'Fatigue, Weakness, Pale or jaundiced skin, Bone deformities'),
+('Thoracic Outlet Syndrome', 'Pain or numbness in the shoulder and arm, Weakness in the arm, Hand discoloration'),
+('Tonsil Stones', 'Bad breath, White or yellowish formations on tonsils, Sore throat'),
+('Tourette Syndrome', 'Involuntary and repetitive movements or vocalizations (tics), Motor and vocal tics');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Toxic Shock Syndrome', 'Sudden high fever, Low blood pressure, Vomiting, Diarrhea, Rash'),
+('Turner Syndrome', 'Short stature, Delayed puberty, Webbed neck, Heart defects'),
+('Uterine Fibroids', 'Pelvic pain or pressure, Heavy menstrual bleeding, Frequent urination, Backache'),
+('Uveitis', 'Eye redness, Pain, Blurred vision, Sensitivity to light'),
+('Vascular Dementia', 'Memory loss, Confusion, Difficulty concentrating, Trouble with decision-making'),
+('Vasculitis', 'Fatigue, Fever, Weight loss, Skin rash, Joint pain');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Ventricular Septal Defect (VSD)', 'Heart murmur, Shortness of breath, Poor growth in infants'),
+('Vestibular Neuritis', 'Dizziness, Vertigo (spinning sensation), Nausea, Imbalance'),
+('Von Willebrand Disease', 'Easy bruising, Prolonged bleeding, Nosebleeds, Heavy menstrual bleeding'),
+('Wegener`s Granulomatosis (Granulomatosis with Polyangiitis)', 'Persistent sinusitis, Lung and kidney problems, Joint pain'),
+('Whiplash', 'Neck pain and stiffness, Headache, Fatigue, Dizziness'),
+('Wilson`s Disease', 'Fatigue, Jaundice, Abdominal pain, Neurological symptoms (tremors, difficulty speaking)');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Xeroderma Pigmentosum', 'Sunburn-like skin reactions, Freckle-like spots, Dry and scaly skin, Eye and neurological problems'),
+('X-linked Agammaglobulinemia (Bruton`s Agammaglobulinemia)', 'Recurrent bacterial infections, Pneumonia, Ear infections, Sinus infections'),
+('Yellow Nail Syndrome', 'Yellowing of nails, Lymphedema (swelling in limbs), Respiratory problems'),
+('Yersinia Infection', 'Abdominal pain, Diarrhea, Fever'),
+('Achondroplasia', 'Short stature, Disproportionate limbs, Large head, Bowing of the legs');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Acromegaly', 'Enlarged hands and feet, Facial changes, Joint pain, Thickened skin'),
+('Actinic Keratosis', 'Rough, scaly patches on the skin, Itching or burning, Color changes'),
+('Adrenoleukodystrophy', 'Progressive neurological symptoms, Vision and hearing loss, Adrenal gland dysfunction'),
+('Aicardi Syndrome', 'Partial or complete absence of the corpus callosum, Seizures, Intellectual disability'),
+('Alopecia Areata', 'Hair loss in patches, Regrowth of white or gray hair, Nails may have pitting'),
+('Alpha-1 Antitrypsin Deficiency', 'Shortness of breath, Wheezing, Chronic obstructive pulmonary disease (COPD) risk');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Amniotic Band Syndrome', 'Constriction rings on limbs, Limb abnormalities, Fetal deformities'),
+('Amyotrophic Lateral Sclerosis (ALS)', 'Muscle weakness, Difficulty speaking, Difficulty swallowing, Muscle twitching'),
+('Angelman Syndrome', 'Developmental delays, Speech impairment, Happy demeanor, Seizures'),
+('Antiphospholipid Syndrome', 'Blood clots, Pregnancy complications, Skin rash, Fatigue'),
+('Arnold-Chiari Malformation', 'Headache, Neck pain, Dizziness, Balance problems'),
+('Asperger`s Syndrome', 'Social difficulties, Repetitive behaviors, Narrow interests, Communication challenges');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Barrett`s Esophagus', 'Heartburn, Difficulty swallowing, Chest pain, Chronic cough'),
+('Behçet`s Disease', 'Mouth sores, Genital sores, Eye inflammation, Skin lesions'),
+('Blue Rubber Bleb Nevus Syndrome', 'Blue or purple rubbery skin nodules, Gastrointestinal bleeding, Anemia'),
+('Brucellosis', 'Fever, Fatigue, Joint pain, Sweating'),
+('Capgras Syndrome', 'Belief that a person has been replaced by an imposter, Emotional detachment'),
+('Celiac Plexus Block', 'Pain relief in the upper abdomen, Improved quality of life in pancreatic cancer patients');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Chagas Disease', 'Fever, Fatigue, Body aches, Swelling at the site of infection'),
+('Chiari Malformation', 'Headache, Neck pain, Dizziness, Balance problems'),
+('Chikungunya', 'Fever, Joint pain, Muscle pain, Rash'),
+('Chondromalacia Patellae', 'Knee pain, Grating or grinding sensation in the knee, Knee stiffness'),
+('Chromosomal Abnormalities', 'Varied depending on the specific abnormality, Birth defects, Intellectual disabilities'),
+('Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)', 'Weakness, Tingling or numbness, Fatigue, Difficulty with balance and coordination');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Churg-Strauss Syndrome', 'Asthma, Eosinophilia, Vasculitis, Sinusitis'),
+('Coccidioidomycosis (Valley Fever)', 'Fever, Cough, Chest pain, Joint pain'),
+('Colorectal Polyps', 'Often asymptomatic, Rectal bleeding, Changes in bowel habits'),
+('Complex Regional Pain Syndrome (CRPS)', 'Severe pain, Swelling, Changes in skin temperature or color, Limited range of motion'),
+('Conn`s Syndrome (Primary Hyperaldosteronism)', 'High blood pressure, Muscle weakness, Fatigue, Frequent urination'),
+('Cotard Delusion', 'Belief that one is dead, Nonrecognition of self, Severe depression');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Cystinosis', 'Excessive thirst, Frequent urination, Gastrointestinal symptoms, Growth failure'),
+('Dermatomyositis', 'Muscle weakness, Skin rash, Joint pain, Difficulty swallowing'),
+('Desmoid Tumors', 'Pain or tenderness, Firm lumps or masses, Limited range of motion'),
+('Diabetic Ketoacidosis', 'High blood sugar, Excessive thirst, Nausea, Vomiting, Abdominal pain'),
+('Diabetic Nephropathy', 'Swelling of ankles, Fatigue, Protein in urine, High blood pressure'),
+('Diabetic Neuropathy', 'Numbness or tingling in extremities, Burning or sharp pain, Muscle weakness, Loss of coordination');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Diabetic Retinopathy', 'Blurred vision, Floaters, Difficulty seeing in low light, Vision loss'),
+('Discitis', 'Back pain, Fever, Limited range of motion, Pain with movement'),
+('Disseminated Intravascular Coagulation (DIC)', 'Bleeding, Bruising, Blood clots, Organ failure'),
+('Dysautonomia', 'Dizziness, Fainting, Rapid heart rate, Blood pressure changes'),
+('Dyshidrotic Eczema', 'Itchy blisters on hands and feet, Redness, Flaking, Cracking'),
+('Ectrodactyly', 'Missing fingers or toes, Claw-like hands or feet, Limb abnormalities');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Ehlers-Danlos Syndrome', 'Joint hypermobility, Skin that bruises easily, Joint pain, Stretchy skin'),
+('Emphysema', 'Shortness of breath, Chronic cough, Wheezing, Chest tightness'),
+('Empty Nose Syndrome', 'Nasal congestion, Difficulty breathing through the nose, Dry nasal passages'),
+('Eosinophilic Esophagitis', 'Difficulty swallowing, Chest pain, Food impaction, Heartburn'),
+('Erdheim-Chester Disease', 'Bone pain, Exophthalmos (protruding eyes), Skin lesions'),
+('Essential Tremor', 'Tremors (shaking) during movement, Tremors in hands or head, Worsening with stress or caffeine');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Exostosis', 'Bony growth on bones, Joint pain, Limited range of motion'),
+('Factor V Leiden Mutation', 'Increased risk of blood clots, Deep vein thrombosis, Pulmonary embolism'),
+('Fahr`s Syndrome', 'Calcification in the brain, Neurological symptoms, Cognitive impairment'),
+('Felty Syndrome', 'Enlarged spleen, Rheumatoid arthritis, Low white blood cell count'),
+('Fibrous Dysplasia', 'Bone pain, Deformities, Fractures, Skin discoloration'),
+('Fish Odor Syndrome (Trimethylaminuria)', 'Strong fishy odor in breath, sweat, and urine');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Foreign Accent Syndrome', 'Altered speech with perceived foreign accent, Changes in intonation or rhythm'),
+('Fragile X-associated Tremor/Ataxia Syndrome (FXTAS)', 'Tremors, Ataxia (loss of coordination), Cognitive decline'),
+('Frontotemporal Dementia', 'Personality changes, Behavioral disturbances, Language difficulties, Memory loss'),
+('Functional Dyspepsia', 'Upper abdominal pain or discomfort, Bloating, Early satiety'),
+('Gastritis', 'Stomach pain, Nausea, Vomiting, Loss of appetite'),
+('Gastroparesis', 'Nausea, Vomiting, Feeling full quickly, Abdominal bloating, Weight loss');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Gerstmann-Sträussler-Scheinker Syndrome (GSS)', 'Cognitive decline, Ataxia, Muscle stiffness, Tremors'),
+('Giant Cell Arteritis', 'Headache, Jaw pain, Vision problems, Scalp tenderness'),
+('Gitelman Syndrome', 'Muscle weakness, Fatigue, Salt cravings, Low blood potassium levels'),
+('Glanzmann Thrombasthenia', 'Easy bruising, Nosebleeds, Prolonged bleeding'),
+('Goodpasture Syndrome', 'Coughing up blood, Difficulty breathing, Fatigue, Kidney damage'),
+('Granulomatosis with Polyangiitis (Wegener`s Granulomatosis)', 'Sinusitis, Respiratory symptoms, Kidney problems, Joint pain');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Graves` Ophthalmopathy', 'Eye bulging, Double vision, Dry eyes, Eye pain'),
+('Hashimoto`s Encephalopathy', 'Seizures, Altered mental state, Tremors, Stiffness'),
+('Henoch-Schönlein Purpura', 'Purple or red rash (purpura), Joint pain, Abdominal pain, Kidney problems'),
+('Hermansky-Pudlak Syndrome', 'Albinism, Visual impairment, Easy bruising, Lung and bowel problems'),
+('Herpes Zoster Oticus (Ramsay Hunt Syndrome)', 'Ear pain, Rash on the ear or face, Facial paralysis, Hearing loss');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Hidradenitis Suppurativa', 'Painful lumps or bumps, Abscesses, Tunnel-like tracts under the skin'),
+('High Altitude Sickness', 'Headache, Nausea, Fatigue, Shortness of breath'),
+('Hirayama Disease', 'Muscle weakness or wasting in hands, Hand tremors, Difficulty in gripping objects'),
+('Hirschsprung`s Disease', 'Failure to pass meconium stool in newborns, Constipation, Abdominal distension'),
+('Horner`s Syndrome', 'Drooping of the upper eyelid, Constricted pupil, Sunken appearance of the eye'),
+('Huntington`s Disease', 'Involuntary movements (chorea), Cognitive decline, Emotional disturbances, Muscle rigidity');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Hydranencephaly', 'Severe developmental delay, Seizures, Absence of cerebral hemispheres'),
+('Hyper IgM Syndrome', 'Frequent infections, Low levels of immunoglobulin, Recurrent respiratory infections'),
+('Hyperprolactinemia', 'Irregular periods, Breast milk production in non-pregnant or non-breastfeeding women'),
+('Hypersomnia', 'Excessive daytime sleepiness, Long naps, Difficulty waking up'),
+('Hypertrophic Cardiomyopathy', 'Shortness of breath, Chest pain, Fatigue, Rapid or irregular heartbeat'),
+('Hypoparathyroidism', 'Muscle cramps or spasms, Tingling or numbness, Fatigue, Dry skin');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Hypotonia', 'Poor muscle tone, Difficulty with coordination and balance, Delayed motor skills development'),
+('Iliotibial Band Syndrome', 'Pain on the outer side of the knee or hip, Swelling, Tenderness'),
+('Inclusion Body Myositis', 'Muscle weakness, Difficulty swallowing, Muscle inflammation'),
+('Infantile Spasms', 'Sudden muscle contractions, Jerking movements, Developmental regression'),
+('Inflammatory Myopathy', 'Muscle weakness, Muscle pain, Joint pain, Fatigue'),
+('Inflammatory Pseudotumor', 'Localized mass or swelling, Pain, Inflammation, Symptoms related to the affected organ');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Insulinoma', 'Episodes of hypoglycemia, Sweating, Tremors, Confusion'),
+('Intracranial Hypotension', 'Headache, Neck pain, Nausea, Vomiting'),
+('Kaposi`s Sarcoma', 'Skin lesions or nodules, Internal organ involvement, Purple or red spots'),
+('Kearns-Sayre Syndrome', 'Progressive external ophthalmoplegia, Heart block, Muscle weakness or paralysis');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Klippel-Trenaunay Syndrome', 'Port-wine stains, Varicose veins, Limb overgrowth or hypertrophy'),
+('Korsakoff`s Syndrome', 'Severe memory loss, Confabulation, Difficulty learning new information'),
+('Lactational Mastitis', 'Breast pain or tenderness, Redness, Swelling, Flu-like symptoms'),
+('Lambert-Eaton Myasthenic Syndrome (LEMS)', 'Muscle weakness, Autonomic symptoms, Fatigue, Difficulty walking'),
+('Langerhans Cell Sarcoma', 'Localized or systemic masses, Pain, Swelling, Fever'),
+('Laron Syndrome', 'Short stature, Delayed puberty, Proportionate body features');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Lassa Fever', 'Fever, Headache, Muscle aches, Bleeding, Vomiting'),
+('Leber`s Hereditary Optic Neuropathy (LHON)', 'Sudden vision loss, Central scotoma, Color vision abnormalities'),
+('Legg-Calvé-Perthes Disease', 'Hip pain or limp, Limited range of motion, Atrophy of thigh muscles'),
+('Lennox-Gastaut Syndrome', 'Multiple seizure types, Intellectual disability, Behavioral and developmental problems'),
+('Leptospirosis', 'Fever, Headache, Muscle pain, Jaundice, Kidney failure'),
+('Lipedema', 'Symmetrical swelling and enlargement of lower limbs, Tenderness, Easy bruising');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Liposarcoma', 'Painless lump or swelling, Abdominal pain or fullness, Nausea, Vomiting'),
+('Lou Gehrig`s Disease (Amyotrophic Lateral Sclerosis - ALS)', 'Muscle weakness, Difficulty speaking or swallowing, Muscle cramps, Twitching'),
+('Lymphangioleiomyomatosis (LAM)', 'Shortness of breath, Cough, Chest pain, Fatigue'),
+('Lymphocytic Colitis', 'Chronic diarrhea, Abdominal pain, Weight loss'),
+('Lymphomatoid Granulomatosis', 'Fever, Cough, Shortness of breath, Skin lesions'),
+('Macrocephaly', 'Abnormally large head size, Rapid head growth, Bulging fontanelle (soft spot)');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Macular Pucker', 'Blurred or distorted central vision, Straight lines appearing wavy, Difficulty seeing fine details'),
+('Mad Cow Disease (Creutzfeldt-Jakob Disease)', 'Rapidly progressive dementia, Muscle stiffness, Twitching, Personality changes'),
+('Mal de Débarquement Syndrome', 'Persistent sensation of rocking or swaying after motion exposure'),
+('Mallory-Weiss Syndrome', 'Forceful vomiting, Bloody or dark-colored vomit, Difficulty swallowing'),
+('Maple Syrup Urine Disease (MSUD)', 'Sweet-smelling urine, Poor feeding, Vomiting, Neurological symptoms'),
+('Marfanoid Hypermobility Syndrome', 'Joint hypermobility, Long limbs, Tall stature, Joint pain');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('McArdle Disease (Glycogen Storage Disease Type V)', 'Muscle cramps, Exercise intolerance, Myoglobinuria'),
+('Ménétrier`s Disease', 'Abdominal pain, Nausea, Vomiting, Protein-losing gastropathy'),
+('Meniere`s Disease', 'Vertigo, Hearing loss, Tinnitus, Feeling of fullness or pressure in the ear'),
+('Merkel Cell Carcinoma', 'Firm, painless skin nodule, Red or purple patches, Swelling or lump'),
+('Mesenteric Ischemia', 'Abdominal pain after eating, Weight loss, Diarrhea, Nausea, Vomiting'),
+('Microcephaly', 'Abnormally small head, Intellectual disability, Delays in speech and motor skills');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Mikulicz Disease', 'Swelling of the salivary and lacrimal glands, Dry eyes, Dry mouth'),
+('Miller Fisher Syndrome', 'Ataxia, Ophthalmoplegia, Absence of deep tendon reflexes'),
+('Mitochondrial Myopathy', 'Muscle weakness, Exercise intolerance, Fatigue, Gastrointestinal symptoms'),
+('Mixed Connective Tissue Disease', 'Joint pain, Muscle weakness, Raynaud`s phenomenon, Skin changes'),
+('Moyamoya Disease', 'Headaches, Seizures, Transient ischemic attacks (TIAs), Stroke-like symptoms'),
+('Mucopolysaccharidosis', 'Enlarged organs, Coarse facial features, Joint stiffness, Intellectual disability');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Multiple System Atrophy', 'Autonomic dysfunction, Parkinsonism, Ataxia, Cognitive impairment'),
+('Mycosis Fungoides', 'Skin rash or lesions, Itching, Enlarged lymph nodes'),
+('Myocardial Bridge', 'Chest pain, Shortness of breath, Arrhythmias'),
+('Myoclonic Epilepsy', 'Sudden muscle jerks or twitches, Absence seizures, Generalized tonic-clonic seizures'),
+('Nail-Patella Syndrome', 'Abnormal nails, Absent or underdeveloped kneecaps, Kidney problems'),
+('Nasal Vestibulitis', 'Pain, Redness, Swelling of the nasal vestibule');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Nephrogenic Systemic Fibrosis', 'Skin thickening or hardening, Joint pain, Limited joint mobility'),
+('Neurofibrosarcoma', 'Painless lump or mass, Neurological symptoms based on location'),
+('Neurogenic Bladder', 'Urinary incontinence, Frequent urination, Difficulty emptying the bladder'),
+('Neuroleptic Malignant Syndrome', 'Hyperthermia, Muscle rigidity, Autonomic dysfunction, Altered mental status'),
+('Nocardiosis', 'Fever, Cough, Chest pain, Skin lesions, Neurological symptoms'),
+('Non-24-Hour Sleep-Wake Disorder', 'Difficulty falling asleep or staying asleep, Daytime sleepiness, Circadian rhythm disruption');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Non-Alcoholic Steatohepatitis (NASH)', 'Fatigue, Jaundice, Abdominal pain, Weight loss, Enlarged liver'),
+('Non-Epileptic Seizures', 'Episodic loss of awareness, Convulsions, Unusual movements'),
+('Noonan Syndrome', 'Short stature, Facial features, Heart defects, Learning disabilities'),
+('Norrie Disease', 'Congenital blindness, Progressive hearing loss, Cognitive impairment'),
+('Oligodendroglioma', 'Seizures, Headache, Changes in personality or behavior'),
+('Opsoclonus-Myoclonus Syndrome', 'Jerky eye movements, Involuntary muscle jerks, Ataxia, Behavioral changes');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Osgood-Schlatter Disease', 'Pain and swelling below the knee, Tender bump on the shin'),
+('Osteogenesis Imperfecta', 'Frequent fractures, Blue tint to the whites of the eyes, Short stature'),
+('Ovarian Hyperstimulation Syndrome (OHSS)', 'Abdominal pain or bloating, Nausea, Vomiting, Rapid weight gain'),
+('Paget`s Disease of Bone', 'Bone pain, Joint pain, Deformities, Hearing loss'),
+('Pallister-Hall Syndrome', 'Polydactyly, Hypothalamic hamartoma, Anorectal malformations'),
+('Paraneoplastic Syndromes', 'Varied symptoms depending on associated cancer, Neurological or endocrine dysfunction');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Paresthesia', 'Abnormal sensations, Tingling, Numbness, "Pins and needles" sensation'),
+('Paroxysmal Nocturnal Hemoglobinuria (PNH)', 'Dark urine, Fatigue, Shortness of breath, Abdominal pain'),
+('Patau Syndrome (Trisomy 13)', 'Cleft lip and palate, Extra fingers or toes, Severe intellectual disability'),
+('Patent Ductus Arteriosus (PDA)', 'Heart murmur, Respiratory distress in newborns'),
+('Pelizaeus-Merzbacher Disease', 'Hypotonia, Nystagmus, Tremors, Cognitive impairment'),
+('Pericoronitis', 'Pain and swelling around a partially erupted tooth, Difficulty opening the mouth, Bad taste or odor');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Peripartum Cardiomyopathy', 'Shortness of breath, Fatigue, Swelling of the legs, Rapid or irregular heartbeat'),
+('Persistent Genital Arousal Disorder (PGAD)', 'Persistent genital arousal, Sexual arousal without sexual desire or stimulation'),
+('Persistent Müllerian Duct Syndrome', 'Presence of female reproductive organs in genetically male individuals'),
+('Pfeiffer Syndrome', 'Abnormal skull shape, Broad and short thumbs and toes, Midface retrusion'),
+('Pick`s Disease (Frontotemporal Dementia)', 'Behavioral changes, Language difficulties, Memory loss'),
+('Pilonidal Cyst', 'Pain, Swelling, Redness, Drainage of pus');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Pityriasis Lichenoides', 'Skin rash, Red or brown scaly papules, Itching'),
+('Plica Syndrome', 'Pain or discomfort in the knee, Swelling, Limited range of motion'),
+('Polyarteritis Nodosa', 'Fatigue, Weight loss, Muscle and joint pain, Skin rashes'),
+('Polymyositis', 'Muscle weakness, Muscle pain or tenderness, Fatigue'),
+('Pontocerebellar Hypoplasia', 'Developmental delays, Hypotonia, Difficulty coordinating movements'),
+('Porphyria', 'Abdominal pain, Neuropathy, Photosensitivity, Dark urine');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Postherpetic Neuralgia', 'Pain in the area previously affected by shingles, Burning or stabbing pain'),
+('Pott`s Disease (Tuberculosis of the Spine)', 'Back pain, Spinal deformity, Neurological symptoms'),
+('Prader-Willi Syndrome', 'Excessive hunger, Obesity, Intellectual disability, Behavioral issues'),
+('Precordial Catch Syndrome', 'Sudden and sharp chest pain, Difficulty breathing'),
+('Primary Biliary Cholangitis (PBC)', 'Fatigue, Itchy skin, Abdominal pain, Jaundice'),
+('Primary Sclerosing Cholangitis (PSC)', 'Fatigue, Itchy skin, Abdominal pain, Jaundice');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Progressive Supranuclear Palsy (PSP)', 'Difficulty with balance and walking, Eye movement abnormalities, Cognitive changes'),
+('Pseudotumor Cerebri (Idiopathic Intracranial Hypertension)', 'Headache, Vision changes, Nausea, Papilledema'),
+('Psoriatic Spondylitis', 'Back pain, Stiffness, Joint pain and swelling'),
+('Pulmonary Edema', 'Shortness of breath, Rapid breathing, Coughing, Wheezing'),
+('Pure Autonomic Failure', 'Orthostatic hypotension, Dizziness, Fainting, Gastrointestinal symptoms');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Pyelonephritis', 'Fever, Back pain, Painful or frequent urination, Fatigue'),
+('Quinsy (Peritonsillar Abscess)', 'Severe sore throat, Difficulty swallowing, Fever, Neck pain or swelling'),
+('Rabies', 'Fever, Headache, Anxiety, Confusion, Paralysis'),
+('Recessive Dystrophic Epidermolysis Bullosa (RDEB)', 'Blistering of the skin and mucous membranes, Scarring, Nail changes'),
+('Refractive Errors', 'Blurred vision, Double vision, Eye strain, Headaches'),
+('Reiter`s Syndrome', 'Joint pain and swelling, Eye inflammation, Genital sores, Urinary symptoms');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Rett Syndrome', 'Loss of purposeful hand skills, Slowed growth, Repetitive hand movements'),
+('Reye`s Syndrome', 'Vomiting, Confusion, Seizures, Loss of consciousness'),
+('Rhinophyma', 'Enlarged, red, and bulbous nose, Thickening of facial skin'),
+('Rickets', 'Delayed growth, Soft and weak bones, Muscle weakness, Bone pain'),
+('Rocky Mountain Spotted Fever', 'Fever, Headache, Rash, Muscle aches'),
+('Rothmund-Thomson Syndrome', 'Skin rash, Short stature, Skeletal abnormalities, Cataracts');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Rubinstein-Taybi Syndrome', 'Broad thumbs and toes, Intellectual disability, Facial features such as a beaked nose'),
+('Rumination Disorder', 'Repeated regurgitation of food, Re-chewing, Re-swallowing'),
+('Sacroiliitis', 'Lower back pain, Stiffness, Hip pain'),
+('Saint Vitus` Dance (Sydenham`s Chorea)', 'Involuntary movements, Muscle weakness, Emotional changes'),
+('Sarcopenia', 'Loss of muscle mass, Muscle weakness, Reduced muscle function'),
+('Schizoaffective Disorder', 'Hallucinations, Delusions, Mood disorder symptoms');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Schnitzler Syndrome', 'Fever, Rash, Joint pain, Enlarged lymph nodes'),
+('Sclerosing Cholangitis', 'Fatigue, Itchy skin, Abdominal pain, Jaundice'),
+('Sclerotherapy Complications', 'Pain or swelling at the injection site, Bruising, Allergic reactions'),
+('Seasonal Allergies', 'Sneezing, Runny or stuffy nose, Itchy or watery eyes'),
+('Seborrheic Keratosis', 'Non-cancerous skin growths, Tan, brown, or black in color'),
+('Sensory Processing Disorder', 'Over-sensitivity or under-sensitivity to sensory stimuli, Difficulty with coordination and balance');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Septic Arthritis', 'Joint pain, Swelling, Redness, Fever'),
+('Serotonin Syndrome', 'Agitation, Confusion, Rapid heart rate, Dilated pupils'),
+('Shaken Baby Syndrome', 'Irritability, Difficulty staying awake, Seizures, Vomiting'),
+('Short Bowel Syndrome', 'Diarrhea, Weight loss, Malnutrition'),
+('Shy-Drager Syndrome (Multiple System Atrophy with Autonomic Failure)', 'Orthostatic hypotension, Urinary incontinence, Difficulty swallowing, Impaired coordination and balance'),
+('Sickle Cell Trait', 'Usually asymptomatic, Carrier of the sickle cell gene, Generally does not cause health problems');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Sjögren`s Syndrome', 'Dry eyes, Dry mouth, Joint pain, Fatigue'),
+('Sleep-Related Eating Disorder (SRED)', 'Episodes of eating during the night, Little or no awareness, Disrupted sleep patterns'),
+('Small Intestinal Bacterial Overgrowth (SIBO)', 'Abdominal pain, Bloating, Diarrhea, Malabsorption'),
+('Somatization Disorder', 'Multiple physical symptoms, Anxiety, Depression'),
+('Spina Bifida', 'Malformation of the spine, Bowel and bladder issues, Mobility challenges'),
+('Spinocerebellar Ataxia', 'Loss of coordination and balance, Speech difficulties, Muscle weakness');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Staphylococcal Scalded Skin Syndrome (SSSS)', 'Red skin, Skin peeling, Fever, Irritability'),
+('Stiff Person Syndrome', 'Muscle stiffness, Painful muscle spasms, Difficulty walking'),
+('Still`s Disease (Adult-onset Still`s Disease)', 'Fever, Rash, Joint pain, Swelling'),
+('Sturge-Weber Syndrome', 'Port-wine stain on the face, Eye abnormalities, Seizures'),
+('Subdural Hematoma', 'Headache, Confusion, Nausea, Vomiting'),
+('Substance Use Disorder', 'Impaired control over substance use, Social impairment, Risky use, Tolerance, Withdrawal');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Superior Mesenteric Artery Syndrome', 'Abdominal pain, Nausea, Vomiting, Weight loss'),
+('Swimmer`s Ear (Otitis Externa)', 'Ear pain, Itching in the ear, Redness, Drainage of fluid'),
+('Sydenham`s Chorea', 'Involuntary movements, Muscle weakness, Emotional changes'),
+('Sylvatic Typhus (Rickettsia Prowazekii Infection)', 'Fever, Headache, Rash, Muscle aches'),
+('Syringomyelia', 'Muscle weakness, Loss of sensation, Pain, Bowel and bladder dysfunction'),
+('Tardive Dyskinesia', 'Involuntary movements of the face and body, Lip smacking, Grimacing');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Tarsal Tunnel Syndrome', 'Pain, Numbness, Tingling in the foot'),
+('Temporal Arteritis (Giant Cell Arteritis)', 'Headache, Jaw pain, Vision problems, Scalp tenderness'),
+('Tension Headache', 'Headache with pressure or tightness, Pain in the forehead or back of the head'),
+('Tetralogy of Fallot', 'Cyanosis (bluish skin), Shortness of breath, Poor weight gain, Clubbing of fingers'),
+('Thalassemia Minor', 'Mild anemia, Fatigue, Pale or jaundiced skin');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Thrombotic Thrombocytopenic Purpura (TTP)', 'Fever, Purpura (purple spots on the skin), Neurological symptoms, Kidney problems'),
+('Thyroid Eye Disease (Graves` Ophthalmopathy)', 'Bulging eyes, Red or swollen eyes, Double vision, Vision changes'),
+('Tolosa-Hunt Syndrome', 'Severe headache, Pain around the eye, Double vision'),
+('Tonsilloliths (Tonsil Stones)', 'Bad breath, White debris, Sore throat, Difficulty swallowing'),
+('Toxic Epidermal Necrolysis (TEN)', 'Severe skin rash and blistering, Fever, Sore throat, Peeling skin');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Transient Global Amnesia (TGA)', 'Sudden memory loss, Confusion, Inability to recall recent events'),
+('Transient Tachypnea of the Newborn (TTN)', 'Rapid breathing, Retractions (visible chest wall movements), Grunting'),
+('Trichotillomania', 'Compulsive hair pulling, Hair loss, Tension before pulling, Relief after pulling'),
+('Tropical Sprue', 'Diarrhea, Malabsorption, Fatigue, Weight loss'),
+('Tuberous Sclerosis', 'Skin lesions, Seizures, Intellectual disability, Kidney problems');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Typhoid Fever', 'Fever, Headache, Abdominal pain, Diarrhea, Rose-colored spots on the trunk'),
+('Ulnar Nerve Entrapment', 'Numbness or tingling in the little finger and ring finger, Weakness in hand'),
+('Ulnar Tunnel Syndrome', 'Numbness or tingling in the little finger and ring finger, Weakness in hand'),
+('Unstable Angina', 'Chest pain or discomfort, Shortness of breath, Sweating, Nausea'),
+('Uremic Pruritus', 'Itching, Skin changes due to kidney failure'),
+('Urethral Stricture', 'Difficulty starting urination, Weak urine stream, Frequent urination'),
+('Uterine Cancer', 'Abnormal vaginal bleeding, Pelvic pain, Pain during intercourse'),
+('Vaginismus', 'Involuntary muscle spasms in the vaginal walls, Pain during intercourse');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Vasovagal Syncope', 'Fainting, Pale skin, Sweating, Nausea'),
+('Von Hippel-Lindau Disease', 'Tumors and cysts in various organs, Vision problems, Headaches'),
+('Waldenström Macroglobulinemia', 'Fatigue, Weakness, Weight loss, Enlarged lymph nodes'),
+('West Nile Virus', 'Fever, Headache, Body aches, Rash'),
+('Whipple`s Disease', 'Diarrhea, Abdominal pain, Weight loss, Joint pain'),
+('Williams Syndrome', 'Cognitive and developmental delays, Unique facial features, Friendly personality');
+INSERT INTO disease_symptoms (disease, symptoms)
+VALUES 
+('Wolff-Parkinson-White Syndrome', 'Rapid or irregular heartbeat, Dizziness, Fainting'),
+('Xerophthalmia', 'Night blindness, Dry eyes, Corneal ulcers'),
+('Yersinia enterocolitica Infection', 'Fever, Abdominal pain, Diarrhea, Vomiting');

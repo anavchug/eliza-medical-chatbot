@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthcare Chatbot</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif; /* Ensure consistent font */
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #171717; 
+            color: white; /* Change text color to white */
+            position: relative; /* Position relative to contain the image */
+            overflow: hidden; /* Hide overflow */
+        }
+
+        .content {
+            width: 80%; /* Adjust as needed */
+            max-height: calc(100vh - 100px); /* Adjust according to the available height */
+            overflow-y: auto; /* Enable vertical scroll if needed */
+            padding: 20px;
+        }
+
+       
+       
+        .logo {
+    width: 100px; /* Adjust width as needed */
+    height: auto;
+    position: fixed; /* Fixed position */
+    top: 10px; /* Distance from top */
+    left: 10px; /* Position at the left edge */
+    z-index: 999; /* Ensure it's above other content */
+}
+
+        .logo-small {
+            width: 30px; /* Adjust the width of the small logo */
+            height: auto;
+            margin-right: 10px; /* Adjust the spacing between the logos */
+            vertical-align: middle; /* Align vertically with text */
+        }
+
+        .book {
+            position: absolute;
+            top: 50%; /* Position at the vertical center */
+            left: 50%; /* Position at the horizontal center */
+            transform: translate(-50%, -50%); /* Center the image */
+        }
+
+        /* Adjust z-index for text elements to ensure they appear above the book */
+        .container h1,
+        .container p,
+        .container ul,
+        .container form {
+            position: relative;
+            z-index: 1;
+        }
+
+    .container form {
+    margin-top: 20px; /* Adjust margin as needed */
+    display: flex; /* Use flexbox */
+    align-items: center; /* Vertically center items */
+}
+
+.container form label {
+    margin-right: 10px; /* Add some space between label and input */
+}
+
+.container form input[type="text"] {
+    flex: 1; /* Let the input take remaining space */
+    height: 20px; /* Adjust height as needed */
+    padding: 5px; /* Adjust padding as needed */
+    font-size: 16px; /* Adjust font size as needed */
+}
+
+.container form input[type="submit"] {
+    height: 40px; /* Adjust height as needed */
+    padding: 10px 20px; /* Adjust padding as needed */
+    font-size: 16px; /* Adjust font size as needed */
+}
+
+    </style>
+</head>
+<body>
+
+    <img src="/static/logo.png" alt="Logo" class="logo">
+    <div class="container">
+        <div class="content">
+            <h1> </h1>
+            <p>
+                
+                <strong>SymptoBot:</strong> Hi, I am SymptoBot. Here are the top 10 most common symptoms:
+            </p>
+            <ul>
+                <li>Fatigue</li>
+                <li>Fever</li>
+                <li>Pain in abdomen</li>
+                <li>Nausea</li>
+                <li>Shortness of breath</li>
+                <li>Vomiting</li>
+                <li>Pain in joints</li>
+                <li>Headache</li>
+                <li>Swelling</li>
+                <li>Pain in chest</li>
+            </ul>
+            <p>Do you have any of these symptoms?</p>
+            <div id="conversation">
+                {% for message in conversation %}
+                    <p><strong>You:</strong> {{ message.user_input }}</p>
+                    <p><img src="/static/logo.png" alt="Logo" class="logo-small"> <strong>SymptoBot:</strong> {{ message.eliza_response }}</p>
+                {% endfor %}
+            </div>
+            <form action="/" method="post">
+                <label for="user_input">You:</label><br>
+                <input type="text" id="user_input" name="user_input"><br>
+                <input type="submit" value="Send">
+            </form>
+            <p>**DISCLAIMER**
+
+                This chatbot is intended for informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. 
+                
+                The chatbot does not have the ability to accurately diagnose diseases or health conditions. The health-related information provided by this chatbot is not comprehensive and does not cover all diseases, ailments, physical conditions, or their treatment. 
+                
+                Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read or received from this chatbot.
+                
+                If you think you may have a medical emergency, call your doctor or emergency services immediately. The chatbot does not recommend or endorse any specific tests, physicians, products, procedures, opinions, or other information that may be mentioned.
+                
+                Reliance on any information provided by this chatbot is solely at your own risk.
+                </p>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthcare Chatbot</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif; /* Ensure consistent font */
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #171717; 
+            color: white; /* Change text color to white */
+            position: relative; /* Position relative to contain the image */
+            overflow: hidden; /* Hide overflow */
+        }
+
+        .content {
+            width: 80%; /* Adjust as needed */
+            max-height: calc(100vh - 100px); /* Adjust according to the available height */
+            overflow-y: auto; /* Enable vertical scroll if needed */
+            padding: 20px;
+        }
+
+        .logo {
+            width: 100px; /* Adjust width as needed /
+            height: auto;
+            position: fixed; / Fixed position /
+            top: 10px; / Distance from top /
+            left: 10px; / Position at the left edge /
+            z-index: 999; / Ensure it's above other content */
+        }
+
+        .logo-small {
+            width: 50px; /* Adjust the width of the small logo */
+            height: auto;
+            margin-right: 10px; /* Adjust the spacing between the logos */
+            vertical-align: middle; /* Align vertically with text */
+        }
+
+        .book {
+            position: absolute;
+            top: 50%; /* Position at the vertical center */
+            left: 50%; /* Position at the horizontal center */
+            transform: translate(-50%, -50%); /* Center the image */
+        }
+
+        /* Adjust z-index for text elements to ensure they appear above the book */
+        .container h1,
+        .container p,
+        .container ul,
+        .container form {
+            position: relative;
+            z-index: 1;
+        }
+
+    .container form {
+    margin-top: 20px; /* Adjust margin as needed */
+    display: flex; /* Use flexbox */
+    align-items: center; /* Vertically center items */
+}
+
+.container form label {
+    margin-right: 10px; /* Add some space between label and input */
+}
+
+.container form input[type="text"] {
+    flex: 1; /* Let the input take remaining space */
+    height: 20px; /* Adjust height as needed */
+    padding: 5px; /* Adjust padding as needed */
+    font-size: 16px; /* Adjust font size as needed */
+}
+
+.container form input[type="submit"] {
+    height: 40px; /* Adjust height as needed */
+    padding: 10px 20px; /* Adjust padding as needed */
+    font-size: 16px; /* Adjust font size as needed */
+}
+
+    </style>
+</head>
+<body>
+    <img src="/static/logo.png" alt="Logo" class="logo">
+    <div class="container">
+        <div class="content">
+            <h1> </h1>
+            <p>
+                
+                <strong>SymptoBot:</strong> Hi, I am SymptoBot. Here are the top 10 most common symptoms:
+            </p>
+            <ul>
+                <li>Fatigue</li>
+                <li>Fever</li>
+                <li>Pain in abdomen</li>
+                <li>Nausea</li>
+                <li>Shortness of breath</li>
+                <li>Vomiting</li>
+                <li>Pain in joints</li>
+                <li>Headache</li>
+                <li>Swelling</li>
+                <li>Pain in chest</li>
+            </ul>
+            <p>Do you have any of these symptoms?</p>
+            <div id="conversation">
+                {% for message in conversation %}
+                    <p><strong>You:</strong> {{ message.user_input }}</p>
+                    <p><img src="/static/logo.png" alt="Logo" class="logo-small"> <strong>SymptoBot:</strong> {{ message.eliza_response }}</p>
+                {% endfor %}
+            </div>
+            <form action="/" method="post">
+                <label for="user_input">You:</label><br>
+                <input type="text" id="user_input" name="user_input"><br>
+                <input type="submit" value="Send">
+            </form>
+            <p>**DISCLAIMER**
+
+                This chatbot is intended for informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. 
+                
+                The chatbot does not have the ability to accurately diagnose diseases or health conditions. The health-related information provided by this chatbot is not comprehensive and does not cover all diseases, ailments, physical conditions, or their treatment. 
+                
+                Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read or received from this chatbot.
+                
+                If you think you may have a medical emergency, call your doctor or emergency services immediately. The chatbot does not recommend or endorse any specific tests, physicians, products, procedures, opinions, or other information that may be mentioned.
+                
+                Reliance on any information provided by this chatbot is solely at your own risk.
+                </p>
+        </div>
+    </div>
+</body>
+</html> -->

@@ -1,0 +1,865 @@
+Abdominal aortic aneurysm
+Acne
+Acute cholecystitis
+Acute lymphoblastic leukaemia
+Acute myeloid leukaemia
+Acute pancreatitis
+
+Adenomyosis
+Addison’s disease
+Alcohol-related liver disease
+Allergic rhinitis
+Allergies
+Alzheimer’s disease
+
+Anal cancer
+Anaphylaxis
+Angina
+Angioedema
+Ankylosing spondylitis
+Anorexia nervosa
+
+Anxiety
+Anxiety disorders in children
+Appendicitis
+Arterial thrombosis
+Arthritis
+Asbestosis
+Asthma
+
+Atopic eczema
+Atrial fibrillation
+Attention deficit hyperactivity disorder (ADHD)
+Autistic spectrum disorder (ASD)
+Bacterial vaginosis
+Benign prostate enlargement
+Bile duct cancer (cholangiocarcinoma)
+
+Binge eating
+Bipolar disorder
+Bladder cancer
+Blood poisoning (sepsis)
+Bone cancer
+Bowel cancer
+
+Bowel incontinence
+Bowel polyps
+Brain stem death
+Brain tumours
+Breast cancer (female)
+Breast cancer (male)
+
+Bronchiectasis
+Bronchitis
+Bulimia
+Bunion
+Carcinoid syndrome and carcinoid tumours
+Catarrh
+
+Cellulitis
+Cerebral palsy
+Cervical cancer
+Chest infection
+Chest pain
+Chickenpox
+
+Chilblains
+Chlamydia
+Chronic fatigue syndrome
+Chronic kidney disease
+Chronic lymphocytic leukaemia
+Chronic myeloid leukaemia
+
+Chronic obstructive pulmonary disease
+Chronic pain
+Chronic pancreatitis
+Cirrhosis
+Clostridium difficile
+Coeliac disease
+
+Cold sore
+Coma
+Common cold
+Common heart conditions
+Congenital heart disease
+Conjunctivitis
+
+Constipation
+Coronavirus (COVID-19)
+Cough
+Crohn’s disease
+Croup
+Cystic fibrosis
+
+Cystitis
+Deafblindness
+Deep vein thrombosis
+Dehydration
+Dementia
+Dementia with Lewy bodies
+
+Dental abscess
+Depression
+Dermatitis herpetiformis
+Diabetes
+Diarrhoea
+Discoid eczema
+
+Diverticular disease and diverticulitis
+Dizziness (Lightheadedness)
+Down’s syndrome
+Dry mouth
+Dysphagia (swallowing problems)
+Dystonia
+
+Earache
+Earwax build-up
+Ectopic pregnancy
+Endometriosis
+Epilepsy
+Erectile dysfunction
+
+Escherichia coli (E. coli) O157
+Ewing sarcoma
+Eye cancer
+Fabry disease
+Fainting
+Falls
+
+Fatty liver disease
+Fever
+Fibroids
+Fibromyalgia
+Flatulence
+Flu
+
+Foetal alcohol syndrome
+Food poisoning
+Fragile X syndrome
+Friedreich’s ataxia
+Frozen shoulder
+Gallbladder cancer
+
+Gallstones
+Ganglion cyst
+Gastro-oesophageal reflux disease (GORD)
+Gastroenteritis
+Gaucher’s disease
+Genital herpes
+
+Genital warts
+Glandular fever
+Glaucoma
+Glioblastoma
+Goitre
+Gonorrhoea
+
+Gout
+Guillain-Barré syndrome
+Haemochromatosis
+Haemophilia
+Haemorrhoids
+Hairy cell leukaemia
+
+Hand, foot and mouth disease
+Hay fever
+Head and neck cancer
+Head lice and nits
+Healthy eating
+Hearing loss
+
+Heart failure
+Heartburn and gastro-oesophageal reflux disease (GORD)
+Heat exhaustion and heatstroke
+Heel pain
+Helicobacter pylori (H. pylori) infection
+Hemianopia
+
+Hepatitis A
+Hepatitis B
+Hepatitis C
+Hiatus hernia
+High cholesterol
+HIV
+
+Hodgkin lymphoma
+Huntington’s disease
+Hyperglycaemia (high blood sugar)
+Hyperhidrosis
+Hypertension (high blood pressure)
+Hyperthyroidism (overactive thyroid)
+
+Hypoglycaemia (low blood sugar)
+Hypothyroidism (underactive thyroid)
+Idiopathic pulmonary fibrosis
+Impetigo
+Indigestion
+Ingrown toenail
+
+Insomnia
+Iron deficiency anaemia
+Irritable bowel syndrome (IBS)
+Irritable hip
+Itching
+Itchy bottom
+
+Jaundice
+Jet lag
+Kidney cancer
+Kidney infection
+Kidney stones
+Labyrinthitis
+
+Lactose intolerance
+Langerhans cell histiocytosis
+Laryngeal (larynx) cancer
+Laryngitis
+Legionnaires’ disease
+Leukaemia
+
+Lichen planus
+Liver cancer
+Liver disease
+Liver tumour
+Loss of libido
+Lung cancer
+
+Lupus
+Lyme disease
+Lymphedema
+Malaria
+Male breast cancer
+Malignant brain tumour (cancerous)
+
+Malignant mesothelioma
+Measles
+Ménière’s disease
+Meningitis
+Menopause
+Mesothelioma
+
+Middle ear infection (otitis media)
+Migraine
+Miscarriage
+Moles
+Motor neurone disease (MND)
+Mouth cancer
+
+Mouth ulcer
+Multiple myeloma
+Multiple sclerosis (MS)
+Mumps
+Myasthenia gravis
+Myelodysplasia (myelodysplastic syndromes)
+
+Myeloma
+Nasal and sinus cancer
+Nasopharyngeal cancer
+Neuroblastoma
+Neurofibromatosis type 1
+Neurofibromatosis type 2
+
+Non-alcoholic fatty liver disease (NAFLD)
+Non-Hodgkin lymphoma
+Norovirus
+Nosebleed (epistaxis)
+Obesity
+Obsessive compulsive disorder (OCD)
+
+Obstructive sleep apnoea
+Oesophageal cancer
+Oral thrush in adults
+Osteoarthritis
+Osteoporosis
+Ovarian cancer
+
+Ovarian cyst
+Overactive thyroid
+Paget’s disease of the nipple
+Pancreatic cancer
+Panic disorder
+Parkinson’s disease
+
+Pelvic organ prolapse
+Penile cancer
+Peripheral neuropathy
+Personality disorder
+Peyronie’s disease
+Phobias
+
+Piles (haemorrhoids)
+Pityriasis rosea
+Pityriasis versicolor
+Pleurisy
+Pneumonia
+Polycystic ovary syndrome (PCOS)
+
+Polymyalgia rheumatica
+Post-traumatic stress disorder (PTSD)
+Postnatal depression
+Preeclampsia
+Pressure ulcers
+Prostate cancer
+
+Psoriasis
+Psoriatic arthritis
+Pulmonary embolism
+Pulmonary fibrosis
+Pulmonary hypertension
+Raynaud’s phenomenon
+
+Reactive arthritis
+Restless legs syndrome
+Retinoblastoma
+Rhabdomyosarcoma
+Rheumatoid arthritis
+Ringworm and other fungal infections
+
+Rosacea
+Scabies
+Scarlet fever
+Schizophrenia
+Scleroderma
+Scoliosis
+
+Seasonal affective disorder (SAD)
+Seborrhoeic dermatitis
+Sexually transmitted infections (STIs)
+Shingles
+Shortness of breath
+Sickle cell disease
+
+Sinusitis
+Skin cancer (melanoma)
+Skin cancer (non-melanoma)
+Slapped cheek syndrome
+Sleep apnoea
+Sleep paralysis
+
+Slipped disc
+Soft tissue sarcomas
+Sore throat
+Spleen problems and spleen removal
+Stomach ache and abdominal pain
+Stomach cancer
+
+Stomach ulcer
+Stress, anxiety and low mood
+Stroke
+Sudden infant death syndrome (SIDS)
+Sudden unexpected death in infancy (SUDI)
+Suicide
+
+Sunburn
+Swollen glands
+Tendonitis
+Testicular cancer
+Testicular lumps and swellings
+Throat cancer
+
+Thyroid cancer
+Tinnitus
+Tonsillitis
+Tooth decay
+Toothache
+Transient ischaemic attack (TIA)
+
+Trigeminal neuralgia
+Tuberculosis (TB)
+Type 1 diabetes
+Type 2 diabetes
+Ulcerative colitis
+Underactive thyroid
+
+Urinary incontinence
+Urinary tract infection (UTI)
+Urticaria (hives)
+Vaginal cancer
+Vaginal thrush
+Varicose eczema
+
+Varicose veins
+Venous leg ulcer
+Vertigo
+Viral meningitis
+Vitiligo
+Vomiting
+
+Vulval cancer
+Warts and verrucas
+Whooping cough
+Wilms’ tumour
+Yellow fever
+Zika virus
+
+Zollinger-Ellison syndrome
+Febrile seizures
+Functional neurological disorder (FND)
+Fungal nail infection
+Germ cell tumours
+Gum disease
+
+Haemorrhoids (piles)
+Infectious diseases
+Acinetobacter baumannii infection
+Actinomyces israelii infection
+Adenoviridae infection
+Inflammatory bowel disease (IBD)
+
+Influenza (Flu)
+Ingrown hair
+Insulin resistance
+Interstitial cystitis
+Intestinal obstruction
+Intracranial hematoma
+
+Iron-deficiency anemia
+Irritable bowel syndrome (IBS)
+Ischemic colitis
+Itchy eyes
+Jaundice in newborns
+
+Jet lag disorder
+Kawasaki disease
+Kidney cysts
+Kleptomania
+Klinefelter syndrome
+Knee bursitis
+
+Knee pain
+Lactose intolerance
+Laryngitis
+Lazy eye (amblyopia)
+Lead poisoning
+Leukemia
+
+Lewy body dementia
+Lice
+Lichen planus
+Liver disease
+Liver hemangioma
+Long QT syndrome
+
+Low blood pressure (hypotension)
+Lung cancer
+Lupus
+Lyme disease
+Lymphedema
+Macular degeneration
+
+Malaria
+Male infertility
+Malignant hyperthermia
+Marfan syndrome
+Mastitis
+Medulloblastoma
+
+Melanoma
+Meniere’s disease
+Meningioma
+Menorrhagia
+Mesothelioma
+Metabolic syndrome
+
+Migraine
+Mitral valve prolapse
+Mononucleosis
+Multiple sclerosis
+Muscular dystrophy
+Myasthenia gravis
+
+Myelofibrosis
+Myocarditis
+Narcolepsy
+Nasopharyngeal carcinoma
+Nephrotic syndrome
+Neuroblastoma
+
+Neurodermatitis
+Neurofibromatosis
+Nonalcoholic fatty liver disease
+Obsessive-compulsive disorder (OCD)
+Osteoarthritis
+Osteoporosis
+
+Ovarian cancer
+Paget’s disease of bone
+Pancreatic cancer
+Panic attacks and panic disorder
+Parkinson’s disease
+Pelvic inflammatory disease (PID)
+
+Peptic ulcer
+Pericarditis
+Peripheral artery disease (PAD)
+Peripheral neuropathy
+Pneumonia
+Polycystic ovary syndrome (PCOS)
+
+Post-traumatic stress disorder (PTSD)
+Postpartum depression
+Premature ejaculation
+Premenstrual syndrome (PMS)
+Prostate cancer
+Psoriasis
+
+Pulmonary embolism
+Pulmonary hypertension
+Q fever
+Raynaud’s disease
+Restless legs syndrome
+Sarcoidosis
+
+Sepsis
+Shigellosis
+Sickle cell anemia
+Spinal cord injury
+Stevens-Johnson syndrome
+Strep throat
+
+Temporomandibular joint disorder (TMJ)
+Tetanus
+Thalassemia
+Thoracic outlet syndrome
+Tonsil stones
+Tourette syndrome
+
+Toxic shock syndrome
+Turner syndrome
+Uterine fibroids
+Uveitis
+Vascular dementia
+Vasculitis
+
+Ventricular septal defect (VSD)
+Vestibular neuritis
+Von Willebrand disease
+Wegener's granulomatosis (Granulomatosis with polyangiitis)
+Whiplash
+Wilson's disease
+
+Xeroderma pigmentosum
+X-linked agammaglobulinemia (Bruton's agammaglobulinemia)
+Yellow nail syndrome
+Yersinia infection
+Zollinger-Ellison syndrome
+Achondroplasia
+
+Acromegaly
+Actinic keratosis
+Adrenoleukodystrophy
+Aicardi syndrome
+Alopecia areata
+Alpha-1 antitrypsin deficiency
+
+Amniotic band syndrome
+Amyotrophic lateral sclerosis (ALS)
+Angelman syndrome
+Antiphospholipid syndrome
+Arnold-Chiari malformation
+Asperger's syndrome
+
+Barrett's esophagus
+Behçet's disease
+Blue rubber bleb nevus syndrome
+Brucellosis
+Capgras syndrome
+Celiac plexus block
+
+Chagas disease
+Chiari malformation
+Chikungunya
+Chondromalacia patellae
+Chromosomal abnormalities
+Chronic inflammatory demyelinating polyneuropathy (CIDP)
+
+Churg-Strauss syndrome
+Coccidioidomycosis (Valley fever)
+Colorectal polyps
+Complex regional pain syndrome (CRPS)
+Conn's syndrome (Primary hyperaldosteronism)
+Cotard delusion
+
+Cystinosis
+Dermatomyositis
+Desmoid tumors
+Diabetic ketoacidosis
+Diabetic nephropathy
+Diabetic neuropathy
+
+Diabetic retinopathy
+Discitis
+Disseminated intravascular coagulation (DIC)
+Dysautonomia
+Dyshidrotic eczema
+Ectrodactyly
+
+Ehlers-Danlos syndrome
+Emphysema
+Empty nose syndrome
+Eosinophilic esophagitis
+Erdheim-Chester disease
+Essential tremor
+
+Exostosis
+Factor V Leiden mutation
+Fahr's syndrome
+Felty syndrome
+Fibrous dysplasia
+Fish odor syndrome (Trimethylaminuria)
+
+Foreign accent syndrome
+Fragile X-associated tremor/ataxia syndrome (FXTAS)
+Frontotemporal dementia
+Functional dyspepsia
+Gastritis
+Gastroparesis
+
+Gerstmann-Sträussler-Scheinker syndrome (GSS)
+Giant cell arteritis
+Gitelman syndrome
+Glanzmann thrombasthenia
+Goodpasture syndrome
+Granulomatosis with polyangiitis (Wegener's granulomatosis)
+
+Graves' ophthalmopathy
+Guillain-Barre syndrome
+Hashimoto's encephalopathy
+Henoch-Schönlein purpura
+Hermansky-Pudlak syndrome
+Herpes zoster oticus (Ramsay Hunt syndrome)
+
+Hidradenitis suppurativa
+High altitude sickness
+Hirayama disease
+Hirschsprung's disease
+Horner's syndrome
+Huntington's disease
+
+Hydranencephaly
+Hyper IgM syndrome
+Hyperprolactinemia
+Hypersomnia
+Hypertrophic cardiomyopathy
+Hypoparathyroidism
+
+Hypotonia
+Iliotibial band syndrome
+Inclusion body myositis
+Infantile spasms
+Inflammatory myopathy
+Inflammatory pseudotumor
+
+Insulinoma
+Interstitial cystitis
+Intracranial hypotension
+Kaposi's sarcoma
+Kearns-Sayre syndrome
+Klinefelter syndrome
+
+Klippel-Trenaunay syndrome
+Korsakoff's syndrome
+Lactational mastitis
+Lambert-Eaton myasthenic syndrome (LEMS)
+Langerhans cell sarcoma
+Laron syndrome
+
+Lassa fever
+Leber's hereditary optic neuropathy (LHON)
+Legg-Calvé-Perthes disease
+Lennox-Gastaut syndrome
+Leptospirosis
+Lipedema
+
+Liposarcoma
+Lou Gehrig's disease (Amyotrophic lateral sclerosis - ALS)
+Lymphangioleiomyomatosis (LAM)
+Lymphocytic colitis
+Lymphomatoid granulomatosis
+Macrocephaly
+
+Macular pucker
+Mad cow disease (Creutzfeldt-Jakob disease)
+Mal de débarquement syndrome
+Mallory-Weiss syndrome
+Maple syrup urine disease (MSUD)
+Marfanoid hypermobility syndrome
+
+McArdle disease (Glycogen storage disease type V)
+Ménétrier's disease
+Meniere's disease
+Merkel cell carcinoma
+Mesenteric ischemia
+Microcephaly
+
+Mikulicz disease
+Miller Fisher syndrome
+Mitochondrial myopathy
+Mixed connective tissue disease
+Moyamoya disease
+Mucopolysaccharidosis
+
+Multiple system atrophy
+Mycosis fungoides
+Myocardial bridge
+Myoclonic epilepsy
+Nail-patella syndrome
+Nasal vestibulitis
+
+Nephrogenic systemic fibrosis
+Neurofibrosarcoma
+Neurogenic bladder
+Neuroleptic malignant syndrome
+Nocardiosis
+Non-24-hour sleep-wake disorder
+
+Non-alcoholic steatohepatitis (NASH)
+Non-epileptic seizures
+Noonan syndrome
+Norrie disease
+Oligodendroglioma
+Opsoclonus-myoclonus syndrome
+
+Osgood-Schlatter disease
+Osteogenesis imperfecta
+Ovarian hyperstimulation syndrome (OHSS)
+Paget's disease of bone
+Pallister-Hall syndrome
+Paraneoplastic syndromes
+
+Paresthesia
+Paroxysmal nocturnal hemoglobinuria (PNH)
+Patau syndrome (Trisomy 13)
+Patent ductus arteriosus (PDA)
+Pelizaeus-Merzbacher disease
+Pericoronitis
+
+Peripartum cardiomyopathy
+Persistent genital arousal disorder (PGAD)
+Persistent Müllerian duct syndrome
+Pfeiffer syndrome
+Pick's disease (Frontotemporal dementia)
+Pilonidal cyst
+
+Pityriasis lichenoides
+Plica syndrome
+Polyarteritis nodosa
+Polymyositis
+Pontocerebellar hypoplasia
+Porphyria
+
+Postherpetic neuralgia
+Pott's disease (Tuberculosis of the spine)
+Prader-Willi syndrome
+Precordial catch syndrome
+Primary biliary cholangitis (PBC)
+Primary sclerosing cholangitis (PSC)
+
+Progressive supranuclear palsy (PSP)
+Pseudotumor cerebri (Idiopathic intracranial hypertension)
+Psoriatic spondylitis
+Pulmonary edema
+Pulmonary fibrosis
+Pure autonomic failure
+
+Pyelonephritis
+Quinsy (Peritonsillar abscess)
+Rabies
+Recessive dystrophic epidermolysis bullosa (RDEB)
+Refractive errors
+Reiter's syndrome
+
+Rett syndrome
+Reye's syndrome
+Rhinophyma
+Rickets
+Rocky Mountain spotted fever
+Rothmund-Thomson syndrome
+
+Rubinstein-Taybi syndrome
+Rumination disorder
+Sacroiliitis
+Saint Vitus' dance (Sydenham's chorea)
+Sarcopenia
+Schizoaffective disorder
+
+Schnitzler syndrome
+Sclerosing cholangitis
+Sclerotherapy complications
+Seasonal allergies
+Seborrheic keratosis
+Sensory processing disorder
+
+Septic arthritis
+Serotonin syndrome
+Shaken baby syndrome
+Short bowel syndrome
+Shy-Drager syndrome (Multiple system atrophy with autonomic failure)
+Sickle cell trait
+
+Sjögren's syndrome
+Sleep-related eating disorder (SRED)
+Small intestinal bacterial overgrowth (SIBO)
+Somatization disorder
+Spina bifida
+Spinocerebellar ataxia
+
+Staphylococcal scalded skin syndrome (SSSS)
+Stiff person syndrome
+Still's disease (Adult-onset Still's disease)
+Sturge-Weber syndrome
+Subdural hematoma
+Substance use disorder
+
+Superior mesenteric artery syndrome
+Swimmer's ear (Otitis externa)
+Sydenham's chorea
+Sylvatic typhus (Rickettsia prowazekii infection)
+Syringomyelia
+Tardive dyskinesia
+
+Tarsal tunnel syndrome
+Temporal arteritis (Giant cell arteritis)
+Tension headache
+Tetralogy of Fallot
+Thalassemia minor
+Thoracic outlet syndrome
+
+Thrombotic thrombocytopenic purpura (TTP)
+Thyroid eye disease (Graves' ophthalmopathy)
+Tolosa-Hunt syndrome
+Tonsilloliths (Tonsil stones)
+Tourette syndrome
+Toxic epidermal necrolysis (TEN)
+
+Transient global amnesia (TGA)
+Transient tachypnea of the newborn (TTN)
+Trichotillomania
+Tropical sprue
+Tuberous sclerosis
+Turner syndrome
+
+Typhoid fever
+Ulnar nerve entrapment
+Ulnar tunnel syndrome
+Unstable angina
+Uremic pruritus
+Urethral stricture
+Uterine cancer
+Vaginismus
+
+Vascular dementia
+Vasovagal syncope
+Von Hippel-Lindau disease
+Waldenström macroglobulinemia
+Wegener's granulomatosis (Granulomatosis with polyangiitis)
+West Nile virus
+Whipple's disease
+Williams syndrome
+
+Wilson's disease
+Wolff-Parkinson-White syndrome
+Xerophthalmia
+Yellow nail syndrome
+Yersinia enterocolitica infection
+Zollinger-Ellison syndrome

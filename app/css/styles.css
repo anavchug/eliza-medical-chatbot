@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    background-color: #171717; 
+    color: white; /* Change text color to white */
+    position: relative; /* Position relative to contain the image */
+}
+.logo {
+position: absolute; /* Change from fixed to absolute */
+top: 10px; /* Adjust as needed */
+left: 50%; /* Position at the center horizontally */
+transform: translateX(-50%); /* Center horizontally */
+z-index: 999; /* Ensure it's above other content */
+}
+
+.book {
+position: absolute;
+top: 50%; /* Position at the vertical center */
+left: 50%; /* Position at the horizontal center */
+transform: translate(-50%, -50%); /* Center the image */
+}
+
+/* Adjust z-index for text elements to ensure they appear above the book */
+.container h1,
+.container p,
+.container ul,
+.container form {
+position: relative;
+z-index: 1;
+}
